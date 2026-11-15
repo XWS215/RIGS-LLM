@@ -1,0 +1,51 @@
+﻿scenario_id,function,defect,mergeable,merged_logical_scenario,rationale
+ACC-L01,ACC,Invalid risk relation,No,,Invalid risk relation: no vehicle within 150 m ahead
+ACC-L02,ACC,Behavioural logic error,Yes,LS-ACC-01,Car-following mechanism is present; the defect is in behavioural logic
+ACC-L03,ACC,Ambiguous target,No,,Ambiguous target: all three lanes contain vehicles
+ACC-L04,ACC,Contradictory environment,No,,Contradictory environment: an underground car park merging onto a freeway
+ACC-L05,ACC,Not testable,No,,Not testable
+ACC-L06,ACC,Too safe,Yes,LS-ACC-01,Cruising and following mechanism is present; the defect is that the target carries no risk
+ACC-L07,ACC,Incorrect temporal order,Yes,LS-ACC-02,Target-switch mechanism is present; the defect is in temporal order
+ACC-L08,ACC,Inconsistent risk mechanism,No,,"Inconsistent risk mechanism: the lead vehicle accelerates, decelerates and is stationary at the same time"
+ACC-L09,ACC,Test function deviation,No,,Test function deviation: lateral avoidance of cones
+ACC-L10,ACC,Low risk,Yes,LS-ACC-01,Following mechanism is present; the defect is low risk
+AEB-L01,AEB,Invalid risk relation,No,,Invalid risk relation: the pedestrian never enters the travel path
+AEB-L02,AEB,Unreasonable traffic logic,Yes,LS-AEB-01,Lead-vehicle braking mechanism is present; the defect is in the trigger condition
+AEB-L03,AEB,Conflicting actor behaviour,Yes,LS-AEB-03,Pedestrian-crossing mechanism is present; the defect is in the actor position
+AEB-L04,AEB,Contradictory environment relation,No,,Contradictory environment: a rainstorm coexists with a dry road
+AEB-L05,AEB,Not testable,No,,Not testable: obstacle size and position cannot be determined
+AEB-L06,AEB,Too safe,Yes,LS-AEB-01,Following mechanism is present; the defect is that the target carries no risk
+AEB-L07,AEB,Incorrect temporal relation,Yes,LS-AEB-02,Target switch and lateral interaction are present; the defect is in temporal order
+AEB-L08,AEB,Missing risk mechanism,No,,Missing risk mechanism
+AEB-L09,AEB,Test objective deviation,No,,Function deviation: the case tests automatic parking
+AEB-L10,AEB,Overly simple,No,,Overly simple: a single stationary target collapses the parameter space to a point
+ALC-L01,ALC,Missing target lane,No,,Missing target lane: the right side is a curb and sidewalk
+ALC-L02,ALC,Invalid gap relation,Yes,LS-ALC-02,The target-lane gap-conflict mechanism is present
+ALC-L03,ALC,Traffic logic error,No,,Traffic logic error: keeping the original lane while completing the merge
+ALC-L04,ALC,Contradictory road structure,No,,Contradictory road structure: a one-way single-lane road has no right lane
+ALC-L05,ALC,Not testable,No,,Not testable
+ALC-L06,ALC,Too safe,Yes,LS-ALC-01,Lane-change mechanism is present; the defect is that the target carries no risk
+ALC-L07,ALC,Incorrect temporal relation,Yes,LS-ALC-02,Target-lane vehicle interaction is present; the defect is in temporal order
+ALC-L08,ALC,Contradictory actor behaviour,Yes,LS-ALC-02,The gap-speed conflict mechanism is present
+ALC-L09,ALC,Function deviation,No,,Function deviation: automatic parking
+ALC-L10,ALC,Missing risk mechanism,No,,Missing risk mechanism
+INT-L01,INT,Contradictory intersection structure,No,,Contradictory intersection structure: a straight road has no branch
+INT-L02,INT,Invalid traffic-rule relation,Yes,LS-INT-02,Right-of-way conflict mechanism is present; the defect is in the rule relation
+INT-L03,INT,Wrong actor position,No,,Wrong actor position: the pedestrian never enters the conflict area
+INT-L04,INT,Contradictory environment relation,No,,Contradictory environment: the intersection is closed yet still traversed
+INT-L05,INT,Not testable,No,,Not testable
+INT-L06,INT,Too safe,Yes,LS-INT-01,Intersection-crossing mechanism is present; the defect is that the target carries no risk
+INT-L07,INT,Incorrect temporal order,Yes,LS-INT-02,Crossing-vehicle conflict mechanism is present; the defect is in temporal order
+INT-L08,INT,Contradictory behavioural logic,Yes,LS-INT-02,Crossing-vehicle interaction is present; the defect is a logical contradiction
+INT-L09,INT,Function deviation,No,,Function deviation: following a lead vehicle
+INT-L10,INT,Missing risk mechanism,No,,Missing risk mechanism
+LKA-L01,LKA,Contradictory road structure,No,,Contradictory road structure: open ground in an urban square has no lanes
+LKA-L02,LKA,Invalid risk relation,No,,Invalid risk relation: departure occurs without any disturbance
+LKA-L03,LKA,Unreasonable traffic behaviour,Yes,LS-LKA-02,The adjacent-vehicle lateral-intrusion mechanism is present
+LKA-L04,LKA,Contradictory environment relation,No,,Contradictory environment: accurate lane-line recognition without lane lines
+LKA-L05,LKA,Not testable,No,,Not testable
+LKA-L06,LKA,Too safe,Yes,LS-LKA-01,Lane-keeping mechanism is present; the defect is that the target carries no risk
+LKA-L07,LKA,Incorrect temporal order,Yes,LS-LKA-01,Lane-departure mechanism is present; the defect is in temporal order
+LKA-L08,LKA,Conflicting actor behaviour,Yes,LS-LKA-02,Lateral-conflict mechanism is present; the defect is in the interaction logic
+LKA-L09,LKA,Function deviation,No,,Function deviation: recognizing traffic lights
+LKA-L10,LKA,Missing risk mechanism,No,,Missing risk mechanism

@@ -1,0 +1,132 @@
+{
+  "stats": [
+    {
+      "function": "AEB",
+      "function_name": "Autonomous Emergency Braking",
+      "A_functional_scenarios": 20,
+      "A_mergeable": 20,
+      "A_logical_scenarios": 5,
+      "A_concrete_scenarios": 40,
+      "A_key_scenarios": 9,
+      "A_key_ratio": 0.225,
+      "B_functional_scenarios": 10,
+      "B_mergeable": 4,
+      "B_logical_scenarios": 3,
+      "B_concrete_scenarios": 24,
+      "B_key_scenarios": 6,
+      "B_key_ratio": 0.25
+    },
+    {
+      "function": "ACC",
+      "function_name": "Adaptive Cruise Control",
+      "A_functional_scenarios": 20,
+      "A_mergeable": 20,
+      "A_logical_scenarios": 5,
+      "A_concrete_scenarios": 40,
+      "A_key_scenarios": 9,
+      "A_key_ratio": 0.225,
+      "B_functional_scenarios": 10,
+      "B_mergeable": 4,
+      "B_logical_scenarios": 2,
+      "B_concrete_scenarios": 16,
+      "B_key_scenarios": 3,
+      "B_key_ratio": 0.1875
+    },
+    {
+      "function": "LKA",
+      "function_name": "Lane Keeping Assist",
+      "A_functional_scenarios": 20,
+      "A_mergeable": 20,
+      "A_logical_scenarios": 5,
+      "A_concrete_scenarios": 40,
+      "A_key_scenarios": 25,
+      "A_key_ratio": 0.625,
+      "B_functional_scenarios": 10,
+      "B_mergeable": 4,
+      "B_logical_scenarios": 2,
+      "B_concrete_scenarios": 16,
+      "B_key_scenarios": 8,
+      "B_key_ratio": 0.5
+    },
+    {
+      "function": "ALC",
+      "function_name": "Automatic Lane Change",
+      "A_functional_scenarios": 20,
+      "A_mergeable": 20,
+      "A_logical_scenarios": 5,
+      "A_concrete_scenarios": 40,
+      "A_key_scenarios": 18,
+      "A_key_ratio": 0.45,
+      "B_functional_scenarios": 10,
+      "B_mergeable": 4,
+      "B_logical_scenarios": 2,
+      "B_concrete_scenarios": 16,
+      "B_key_scenarios": 7,
+      "B_key_ratio": 0.4375
+    },
+    {
+      "function": "INT",
+      "function_name": "Intersection Crossing Assist",
+      "A_functional_scenarios": 20,
+      "A_mergeable": 20,
+      "A_logical_scenarios": 5,
+      "A_concrete_scenarios": 40,
+      "A_key_scenarios": 16,
+      "A_key_ratio": 0.4,
+      "B_functional_scenarios": 10,
+      "B_mergeable": 4,
+      "B_logical_scenarios": 2,
+      "B_concrete_scenarios": 16,
+      "B_key_scenarios": 4,
+      "B_key_ratio": 0.25
+    }
+  ],
+  "b_logical_scenarios": [
+    "LS-AEB-01",
+    "LS-AEB-02",
+    "LS-AEB-03",
+    "LS-ACC-01",
+    "LS-ACC-02",
+    "LS-LKA-01",
+    "LS-LKA-02",
+    "LS-ALC-01",
+    "LS-ALC-02",
+    "LS-INT-01",
+    "LS-INT-02"
+  ],
+  "a_key_scenarios": {
+    "AEB": 9,
+    "ACC": 9,
+    "LKA": 25,
+    "ALC": 18,
+    "INT": 16
+  },
+  "b_key_scenarios": {
+    "AEB": 6,
+    "ACC": 3,
+    "LKA": 8,
+    "ALC": 7,
+    "INT": 4
+  },
+  "parameter_space_coverage": {
+    "AEB": 0.5202863961813843,
+    "ACC": 0.6011421936146577,
+    "LKA": 0.6653066322494693,
+    "ALC": 0.5485498977480279,
+    "INT": 0.6291109562131677
+  },
+  "total": {
+    "A_functional_scenarios": 100,
+    "A_mergeable": 100,
+    "A_logical_scenarios": 25,
+    "A_concrete_scenarios": 200,
+    "A_key_scenarios": 77,
+    "A_key_ratio": 0.385,
+    "B_functional_scenarios": 50,
+    "B_mergeable": 20,
+    "B_logical_scenarios": 11,
+    "B_concrete_scenarios": 88,
+    "B_key_scenarios": 28,
+    "B_key_ratio": 0.318
+  }
+}

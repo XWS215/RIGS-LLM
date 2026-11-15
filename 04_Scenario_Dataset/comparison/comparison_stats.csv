@@ -1,0 +1,7 @@
+﻿function,function_name,A_functional_scenarios,A_mergeable,A_logical_scenarios,A_concrete_scenarios,A_key_scenarios,B_functional_scenarios,B_mergeable,B_logical_scenarios,B_concrete_scenarios,B_key_scenarios
+AEB,Autonomous Emergency Braking,20,20,5,40,9,10,4,3,24,6
+ACC,Adaptive Cruise Control,20,20,5,40,9,10,4,2,16,3
+LKA,Lane Keeping Assist,20,20,5,40,25,10,4,2,16,8
+ALC,Automatic Lane Change,20,20,5,40,18,10,4,2,16,7
+INT,Intersection Crossing Assist,20,20,5,40,16,10,4,2,16,4
+Total,-,100,100,25,200,77,50,20,11,88,28
