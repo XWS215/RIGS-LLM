@@ -1,0 +1,101 @@
+﻿metric,method,run,tp,fp,fn
+Entity F1,A1,1,26,2,34
+Entity F1,A2,1,42,3,18
+Entity F1,A3,1,40,6,20
+Entity F1,A4,1,37,3,23
+Entity F1,A5,1,31,3,29
+Relation F1,A1,1,27,5,33
+Relation F1,A2,1,33,4,27
+Relation F1,A3,1,36,11,24
+Relation F1,A4,1,37,7,23
+Relation F1,A5,1,29,2,31
+Direction,A1,1,25,4,35
+Direction,A2,1,26,3,34
+Direction,A3,1,32,0,28
+Direction,A4,1,37,6,23
+Direction,A5,1,40,5,20
+Mechanism F1,A1,1,21,3,39
+Mechanism F1,A2,1,12,1,48
+Mechanism F1,A3,1,27,7,33
+Mechanism F1,A4,1,31,6,29
+Mechanism F1,A5,1,37,10,23
+Entity F1,A1,2,36,5,24
+Entity F1,A2,2,34,5,26
+Entity F1,A3,2,32,2,28
+Entity F1,A4,2,39,1,21
+Entity F1,A5,2,39,3,21
+Relation F1,A1,2,18,1,42
+Relation F1,A2,2,29,4,31
+Relation F1,A3,2,26,3,34
+Relation F1,A4,2,41,8,19
+Relation F1,A5,2,43,5,17
+Direction,A1,2,26,4,34
+Direction,A2,2,26,3,34
+Direction,A3,2,30,3,30
+Direction,A4,2,40,3,20
+Direction,A5,2,38,3,22
+Mechanism F1,A1,2,12,0,48
+Mechanism F1,A2,2,21,5,39
+Mechanism F1,A3,2,27,6,33
+Mechanism F1,A4,2,31,8,29
+Mechanism F1,A5,2,35,7,25
+Entity F1,A1,3,33,7,27
+Entity F1,A2,3,39,3,21
+Entity F1,A3,3,36,5,24
+Entity F1,A4,3,38,7,22
+Entity F1,A5,3,36,3,24
+Relation F1,A1,3,25,3,35
+Relation F1,A2,3,31,3,29
+Relation F1,A3,3,24,5,36
+Relation F1,A4,3,29,4,31
+Relation F1,A5,3,33,2,27
+Direction,A1,3,26,6,34
+Direction,A2,3,32,5,28
+Direction,A3,3,36,4,24
+Direction,A4,3,41,2,19
+Direction,A5,3,43,7,17
+Mechanism F1,A1,3,17,5,43
+Mechanism F1,A2,3,21,3,39
+Mechanism F1,A3,3,31,5,29
+Mechanism F1,A4,3,28,6,32
+Mechanism F1,A5,3,37,7,23
+Entity F1,A1,4,33,3,27
+Entity F1,A2,4,43,9,17
+Entity F1,A3,4,37,2,23
+Entity F1,A4,4,39,2,21
+Entity F1,A5,4,39,2,21
+Relation F1,A1,4,25,4,35
+Relation F1,A2,4,27,5,33
+Relation F1,A3,4,28,2,32
+Relation F1,A4,4,39,4,21
+Relation F1,A5,4,35,11,25
+Direction,A1,4,23,2,37
+Direction,A2,4,26,5,34
+Direction,A3,4,40,6,20
+Direction,A4,4,41,9,19
+Direction,A5,4,40,7,20
+Mechanism F1,A1,4,18,5,42
+Mechanism F1,A2,4,17,3,43
+Mechanism F1,A3,4,27,2,33
+Mechanism F1,A4,4,24,6,36
+Mechanism F1,A5,4,27,2,33
+Entity F1,A1,5,29,4,31
+Entity F1,A2,5,34,5,26
+Entity F1,A3,5,41,5,19
+Entity F1,A4,5,37,5,23
+Entity F1,A5,5,35,2,25
+Relation F1,A1,5,19,4,41
+Relation F1,A2,5,31,4,29
+Relation F1,A3,5,28,2,32
+Relation F1,A4,5,40,6,20
+Relation F1,A5,5,33,6,27
+Direction,A1,5,24,4,36
+Direction,A2,5,29,4,31
+Direction,A3,5,34,6,26
+Direction,A4,5,37,4,23
+Direction,A5,5,45,3,15
+Mechanism F1,A1,5,16,4,44
+Mechanism F1,A2,5,22,6,38
+Mechanism F1,A3,5,33,5,27
+Mechanism F1,A4,5,31,4,29
+Mechanism F1,A5,5,37,7,23

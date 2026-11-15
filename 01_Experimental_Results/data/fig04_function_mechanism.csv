@@ -1,0 +1,151 @@
+﻿mechanism,function,expert,score
+Rear-end,AEB,E1,91
+Rear-end,AEB,E2,92
+Rear-end,AEB,E3,92
+Rear-end,AEB,E4,92
+Rear-end,AEB,E5,94
+Rear-end,ACC,E1,87
+Rear-end,ACC,E2,88
+Rear-end,ACC,E3,88
+Rear-end,ACC,E4,86
+Rear-end,ACC,E5,88
+Rear-end,ALC,E1,53
+Rear-end,ALC,E2,53
+Rear-end,ALC,E3,54
+Rear-end,ALC,E4,53
+Rear-end,ALC,E5,55
+Rear-end,LKA,E1,17
+Rear-end,LKA,E2,19
+Rear-end,LKA,E3,19
+Rear-end,LKA,E4,18
+Rear-end,LKA,E5,19
+Rear-end,INT,E1,42
+Rear-end,INT,E2,42
+Rear-end,INT,E3,41
+Rear-end,INT,E4,40
+Rear-end,INT,E5,42
+Cut-in,AEB,E1,72
+Cut-in,AEB,E2,74
+Cut-in,AEB,E3,73
+Cut-in,AEB,E4,72
+Cut-in,AEB,E5,76
+Cut-in,ACC,E1,66
+Cut-in,ACC,E2,67
+Cut-in,ACC,E3,68
+Cut-in,ACC,E4,68
+Cut-in,ACC,E5,66
+Cut-in,ALC,E1,90
+Cut-in,ALC,E2,90
+Cut-in,ALC,E3,89
+Cut-in,ALC,E4,90
+Cut-in,ALC,E5,88
+Cut-in,LKA,E1,28
+Cut-in,LKA,E2,28
+Cut-in,LKA,E3,26
+Cut-in,LKA,E4,27
+Cut-in,LKA,E5,28
+Cut-in,INT,E1,58
+Cut-in,INT,E2,61
+Cut-in,INT,E3,59
+Cut-in,INT,E4,60
+Cut-in,INT,E5,60
+Pedestrian,AEB,E1,80
+Pedestrian,AEB,E2,80
+Pedestrian,AEB,E3,81
+Pedestrian,AEB,E4,79
+Pedestrian,AEB,E5,79
+Pedestrian,ACC,E1,24
+Pedestrian,ACC,E2,23
+Pedestrian,ACC,E3,25
+Pedestrian,ACC,E4,24
+Pedestrian,ACC,E5,25
+Pedestrian,ALC,E1,32
+Pedestrian,ALC,E2,31
+Pedestrian,ALC,E3,31
+Pedestrian,ALC,E4,32
+Pedestrian,ALC,E5,30
+Pedestrian,LKA,E1,22
+Pedestrian,LKA,E2,21
+Pedestrian,LKA,E3,21
+Pedestrian,LKA,E4,23
+Pedestrian,LKA,E5,22
+Pedestrian,INT,E1,74
+Pedestrian,INT,E2,73
+Pedestrian,INT,E3,75
+Pedestrian,INT,E4,74
+Pedestrian,INT,E5,75
+Lane departure,AEB,E1,21
+Lane departure,AEB,E2,22
+Lane departure,AEB,E3,21
+Lane departure,AEB,E4,22
+Lane departure,AEB,E5,20
+Lane departure,ACC,E1,31
+Lane departure,ACC,E2,30
+Lane departure,ACC,E3,30
+Lane departure,ACC,E4,30
+Lane departure,ACC,E5,30
+Lane departure,ALC,E1,46
+Lane departure,ALC,E2,46
+Lane departure,ALC,E3,46
+Lane departure,ALC,E4,46
+Lane departure,ALC,E5,48
+Lane departure,LKA,E1,86
+Lane departure,LKA,E2,89
+Lane departure,LKA,E3,90
+Lane departure,LKA,E4,88
+Lane departure,LKA,E5,88
+Lane departure,INT,E1,34
+Lane departure,INT,E2,35
+Lane departure,INT,E3,34
+Lane departure,INT,E4,33
+Lane departure,INT,E5,32
+Cross traffic,AEB,E1,36
+Cross traffic,AEB,E2,36
+Cross traffic,AEB,E3,37
+Cross traffic,AEB,E4,37
+Cross traffic,AEB,E5,37
+Cross traffic,ACC,E1,16
+Cross traffic,ACC,E2,17
+Cross traffic,ACC,E3,15
+Cross traffic,ACC,E4,17
+Cross traffic,ACC,E5,16
+Cross traffic,ALC,E1,42
+Cross traffic,ALC,E2,45
+Cross traffic,ALC,E3,44
+Cross traffic,ALC,E4,44
+Cross traffic,ALC,E5,42
+Cross traffic,LKA,E1,25
+Cross traffic,LKA,E2,24
+Cross traffic,LKA,E3,24
+Cross traffic,LKA,E4,25
+Cross traffic,LKA,E5,24
+Cross traffic,INT,E1,91
+Cross traffic,INT,E2,91
+Cross traffic,INT,E3,91
+Cross traffic,INT,E4,91
+Cross traffic,INT,E5,89
+Occlusion,AEB,E1,63
+Occlusion,AEB,E2,63
+Occlusion,AEB,E3,61
+Occlusion,AEB,E4,62
+Occlusion,AEB,E5,64
+Occlusion,ACC,E1,44
+Occlusion,ACC,E2,42
+Occlusion,ACC,E3,41
+Occlusion,ACC,E4,41
+Occlusion,ACC,E5,41
+Occlusion,ALC,E1,52
+Occlusion,ALC,E2,52
+Occlusion,ALC,E3,51
+Occlusion,ALC,E4,51
+Occlusion,ALC,E5,51
+Occlusion,LKA,E1,30
+Occlusion,LKA,E2,28
+Occlusion,LKA,E3,30
+Occlusion,LKA,E4,28
+Occlusion,LKA,E5,28
+Occlusion,INT,E1,69
+Occlusion,INT,E2,67
+Occlusion,INT,E3,68
+Occlusion,INT,E4,68
+Occlusion,INT,E5,68

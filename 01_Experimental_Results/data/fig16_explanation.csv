@@ -1,0 +1,2101 @@
+﻿method,metric,run,case,score
+D1,Risk rel.,1,1,0.515482
+D1,Risk rel.,1,2,0.431330
+D1,Risk rel.,1,3,0.435586
+D1,Risk rel.,1,4,0.513568
+D1,Risk rel.,1,5,0.541841
+D1,Risk rel.,1,6,0.491735
+D1,Risk rel.,1,7,0.564352
+D1,Risk rel.,1,8,0.511211
+D1,Risk rel.,1,9,0.564142
+D1,Risk rel.,1,10,0.645480
+D1,Risk rel.,1,11,0.654659
+D1,Risk rel.,1,12,0.597434
+D1,Risk rel.,1,13,0.436327
+D1,Risk rel.,1,14,0.522816
+D1,Risk rel.,1,15,0.653860
+D1,Risk rel.,1,16,0.434175
+D1,Risk rel.,1,17,0.503432
+D1,Risk rel.,1,18,0.474820
+D1,Risk rel.,1,19,0.641974
+D1,Risk rel.,1,20,0.421521
+D1,Risk rel.,1,21,0.544957
+D1,Risk rel.,1,22,0.615685
+D1,Risk rel.,1,23,0.578296
+D1,Risk rel.,1,24,0.491901
+D1,Risk rel.,1,25,0.441714
+D1,Risk rel.,1,26,0.596569
+D1,Risk rel.,1,27,0.370135
+D1,Risk rel.,1,28,0.263892
+D1,Risk rel.,1,29,0.534251
+D1,Risk rel.,1,30,0.470101
+D1,Evidence,1,1,0.551520
+D1,Evidence,1,2,0.545918
+D1,Evidence,1,3,0.644325
+D1,Evidence,1,4,0.478776
+D1,Evidence,1,5,0.519895
+D1,Evidence,1,6,0.563238
+D1,Evidence,1,7,0.520053
+D1,Evidence,1,8,0.480888
+D1,Evidence,1,9,0.448569
+D1,Evidence,1,10,0.653880
+D1,Evidence,1,11,0.359445
+D1,Evidence,1,12,0.488544
+D1,Evidence,1,13,0.396535
+D1,Evidence,1,14,0.511985
+D1,Evidence,1,15,0.495877
+D1,Evidence,1,16,0.410650
+D1,Evidence,1,17,0.551951
+D1,Evidence,1,18,0.394200
+D1,Evidence,1,19,0.491856
+D1,Evidence,1,20,0.442617
+D1,Evidence,1,21,0.429403
+D1,Evidence,1,22,0.482300
+D1,Evidence,1,23,0.483713
+D1,Evidence,1,24,0.512167
+D1,Evidence,1,25,0.473123
+D1,Evidence,1,26,0.568297
+D1,Evidence,1,27,0.449430
+D1,Evidence,1,28,0.528548
+D1,Evidence,1,29,0.340717
+D1,Evidence,1,30,0.647663
+D1,Structure,1,1,0.616440
+D1,Structure,1,2,0.329118
+D1,Structure,1,3,0.562134
+D1,Structure,1,4,0.362416
+D1,Structure,1,5,0.398496
+D1,Structure,1,6,0.349253
+D1,Structure,1,7,0.453582
+D1,Structure,1,8,0.538658
+D1,Structure,1,9,0.462802
+D1,Structure,1,10,0.513057
+D1,Structure,1,11,0.446331
+D1,Structure,1,12,0.443534
+D1,Structure,1,13,0.579475
+D1,Structure,1,14,0.616518
+D1,Structure,1,15,0.240834
+D1,Structure,1,16,0.218530
+D1,Structure,1,17,0.310675
+D1,Structure,1,18,0.504682
+D1,Structure,1,19,0.557083
+D1,Structure,1,20,0.332828
+D1,Structure,1,21,0.503207
+D1,Structure,1,22,0.371029
+D1,Structure,1,23,0.437740
+D1,Structure,1,24,0.440435
+D1,Structure,1,25,0.246041
+D1,Structure,1,26,0.388901
+D1,Structure,1,27,0.418446
+D1,Structure,1,28,0.603470
+D1,Structure,1,29,0.426156
+D1,Structure,1,30,0.350676
+D2,Risk rel.,1,1,0.576769
+D2,Risk rel.,1,2,0.594731
+D2,Risk rel.,1,3,0.534615
+D2,Risk rel.,1,4,0.731764
+D2,Risk rel.,1,5,0.482774
+D2,Risk rel.,1,6,0.474929
+D2,Risk rel.,1,7,0.639446
+D2,Risk rel.,1,8,0.574990
+D2,Risk rel.,1,9,0.741271
+D2,Risk rel.,1,10,0.656710
+D2,Risk rel.,1,11,0.565244
+D2,Risk rel.,1,12,0.606744
+D2,Risk rel.,1,13,0.638419
+D2,Risk rel.,1,14,0.630068
+D2,Risk rel.,1,15,0.638544
+D2,Risk rel.,1,16,0.591970
+D2,Risk rel.,1,17,0.563834
+D2,Risk rel.,1,18,0.491885
+D2,Risk rel.,1,19,0.600655
+D2,Risk rel.,1,20,0.641080
+D2,Risk rel.,1,21,0.568787
+D2,Risk rel.,1,22,0.734499
+D2,Risk rel.,1,23,0.770698
+D2,Risk rel.,1,24,0.665176
+D2,Risk rel.,1,25,0.568691
+D2,Risk rel.,1,26,0.766178
+D2,Risk rel.,1,27,0.541149
+D2,Risk rel.,1,28,0.730697
+D2,Risk rel.,1,29,0.507299
+D2,Risk rel.,1,30,0.599187
+D2,Evidence,1,1,0.486193
+D2,Evidence,1,2,0.706037
+D2,Evidence,1,3,0.653648
+D2,Evidence,1,4,0.615638
+D2,Evidence,1,5,0.673629
+D2,Evidence,1,6,0.734084
+D2,Evidence,1,7,0.741889
+D2,Evidence,1,8,0.755319
+D2,Evidence,1,9,0.795593
+D2,Evidence,1,10,0.707607
+D2,Evidence,1,11,0.758404
+D2,Evidence,1,12,0.699836
+D2,Evidence,1,13,0.758960
+D2,Evidence,1,14,0.686784
+D2,Evidence,1,15,0.643021
+D2,Evidence,1,16,0.706907
+D2,Evidence,1,17,0.699225
+D2,Evidence,1,18,0.524559
+D2,Evidence,1,19,0.601065
+D2,Evidence,1,20,0.588344
+D2,Evidence,1,21,0.620412
+D2,Evidence,1,22,0.544553
+D2,Evidence,1,23,0.686153
+D2,Evidence,1,24,0.741536
+D2,Evidence,1,25,0.558048
+D2,Evidence,1,26,0.670847
+D2,Evidence,1,27,0.512755
+D2,Evidence,1,28,0.711660
+D2,Evidence,1,29,0.605462
+D2,Evidence,1,30,0.605859
+D2,Structure,1,1,0.575732
+D2,Structure,1,2,0.527129
+D2,Structure,1,3,0.625771
+D2,Structure,1,4,0.509857
+D2,Structure,1,5,0.535912
+D2,Structure,1,6,0.548059
+D2,Structure,1,7,0.561956
+D2,Structure,1,8,0.447545
+D2,Structure,1,9,0.602053
+D2,Structure,1,10,0.611216
+D2,Structure,1,11,0.574050
+D2,Structure,1,12,0.551803
+D2,Structure,1,13,0.655870
+D2,Structure,1,14,0.420793
+D2,Structure,1,15,0.649220
+D2,Structure,1,16,0.595963
+D2,Structure,1,17,0.479343
+D2,Structure,1,18,0.437844
+D2,Structure,1,19,0.579394
+D2,Structure,1,20,0.555000
+D2,Structure,1,21,0.534528
+D2,Structure,1,22,0.640186
+D2,Structure,1,23,0.576050
+D2,Structure,1,24,0.481448
+D2,Structure,1,25,0.529271
+D2,Structure,1,26,0.523112
+D2,Structure,1,27,0.444666
+D2,Structure,1,28,0.511646
+D2,Structure,1,29,0.499635
+D2,Structure,1,30,0.583921
+D3,Risk rel.,1,1,0.602389
+D3,Risk rel.,1,2,0.665489
+D3,Risk rel.,1,3,0.781388
+D3,Risk rel.,1,4,0.650097
+D3,Risk rel.,1,5,0.672702
+D3,Risk rel.,1,6,0.684912
+D3,Risk rel.,1,7,0.646664
+D3,Risk rel.,1,8,0.705257
+D3,Risk rel.,1,9,0.535483
+D3,Risk rel.,1,10,0.638309
+D3,Risk rel.,1,11,0.629797
+D3,Risk rel.,1,12,0.587618
+D3,Risk rel.,1,13,0.810356
+D3,Risk rel.,1,14,0.746605
+D3,Risk rel.,1,15,0.649983
+D3,Risk rel.,1,16,0.790645
+D3,Risk rel.,1,17,0.769389
+D3,Risk rel.,1,18,0.788672
+D3,Risk rel.,1,19,0.790196
+D3,Risk rel.,1,20,0.678800
+D3,Risk rel.,1,21,0.819737
+D3,Risk rel.,1,22,0.791203
+D3,Risk rel.,1,23,0.744273
+D3,Risk rel.,1,24,0.685938
+D3,Risk rel.,1,25,0.659098
+D3,Risk rel.,1,26,0.731168
+D3,Risk rel.,1,27,0.674023
+D3,Risk rel.,1,28,0.685905
+D3,Risk rel.,1,29,0.671594
+D3,Risk rel.,1,30,0.659002
+D3,Evidence,1,1,0.627783
+D3,Evidence,1,2,0.564255
+D3,Evidence,1,3,0.623400
+D3,Evidence,1,4,0.645674
+D3,Evidence,1,5,0.558524
+D3,Evidence,1,6,0.638038
+D3,Evidence,1,7,0.513417
+D3,Evidence,1,8,0.671488
+D3,Evidence,1,9,0.619620
+D3,Evidence,1,10,0.534791
+D3,Evidence,1,11,0.610579
+D3,Evidence,1,12,0.672515
+D3,Evidence,1,13,0.607786
+D3,Evidence,1,14,0.577375
+D3,Evidence,1,15,0.605230
+D3,Evidence,1,16,0.623789
+D3,Evidence,1,17,0.607601
+D3,Evidence,1,18,0.639655
+D3,Evidence,1,19,0.644015
+D3,Evidence,1,20,0.571482
+D3,Evidence,1,21,0.749936
+D3,Evidence,1,22,0.649205
+D3,Evidence,1,23,0.686837
+D3,Evidence,1,24,0.684402
+D3,Evidence,1,25,0.700134
+D3,Evidence,1,26,0.664226
+D3,Evidence,1,27,0.670844
+D3,Evidence,1,28,0.732519
+D3,Evidence,1,29,0.647175
+D3,Evidence,1,30,0.616575
+D3,Structure,1,1,0.667396
+D3,Structure,1,2,0.734862
+D3,Structure,1,3,0.640722
+D3,Structure,1,4,0.736191
+D3,Structure,1,5,0.803425
+D3,Structure,1,6,0.713457
+D3,Structure,1,7,0.757194
+D3,Structure,1,8,0.789859
+D3,Structure,1,9,0.785323
+D3,Structure,1,10,0.719431
+D3,Structure,1,11,0.795551
+D3,Structure,1,12,0.755784
+D3,Structure,1,13,0.843913
+D3,Structure,1,14,0.660267
+D3,Structure,1,15,0.758040
+D3,Structure,1,16,0.786699
+D3,Structure,1,17,0.775067
+D3,Structure,1,18,0.691435
+D3,Structure,1,19,0.655774
+D3,Structure,1,20,0.848467
+D3,Structure,1,21,0.755595
+D3,Structure,1,22,0.794184
+D3,Structure,1,23,0.705376
+D3,Structure,1,24,0.750733
+D3,Structure,1,25,0.811398
+D3,Structure,1,26,0.739240
+D3,Structure,1,27,0.756456
+D3,Structure,1,28,0.887318
+D3,Structure,1,29,0.711773
+D3,Structure,1,30,0.672875
+D3,Decision fidelity,1,1,0.227055
+D3,Decision fidelity,1,2,0.210495
+D3,Decision fidelity,1,3,0.288105
+D3,Decision fidelity,1,4,0.212039
+D3,Decision fidelity,1,5,0.288887
+D3,Decision fidelity,1,6,0.361034
+D3,Decision fidelity,1,7,0.237480
+D3,Decision fidelity,1,8,0.204498
+D3,Decision fidelity,1,9,0.239698
+D3,Decision fidelity,1,10,0.170116
+D3,Decision fidelity,1,11,0.197755
+D3,Decision fidelity,1,12,0.261323
+D3,Decision fidelity,1,13,0.114133
+D3,Decision fidelity,1,14,0.310382
+D3,Decision fidelity,1,15,0.249524
+D3,Decision fidelity,1,16,0.129042
+D3,Decision fidelity,1,17,0.241260
+D3,Decision fidelity,1,18,0.277489
+D3,Decision fidelity,1,19,0.405102
+D3,Decision fidelity,1,20,0.194645
+D3,Decision fidelity,1,21,0.309451
+D3,Decision fidelity,1,22,0.234765
+D3,Decision fidelity,1,23,0.195486
+D3,Decision fidelity,1,24,0.221116
+D3,Decision fidelity,1,25,0.221539
+D3,Decision fidelity,1,26,0.251359
+D3,Decision fidelity,1,27,0.384628
+D3,Decision fidelity,1,28,0.364150
+D3,Decision fidelity,1,29,0.191962
+D3,Decision fidelity,1,30,0.215502
+D4,Risk rel.,1,1,0.804589
+D4,Risk rel.,1,2,0.804483
+D4,Risk rel.,1,3,0.809574
+D4,Risk rel.,1,4,0.886767
+D4,Risk rel.,1,5,0.782646
+D4,Risk rel.,1,6,0.838646
+D4,Risk rel.,1,7,0.826571
+D4,Risk rel.,1,8,0.863857
+D4,Risk rel.,1,9,0.786093
+D4,Risk rel.,1,10,0.708195
+D4,Risk rel.,1,11,0.886345
+D4,Risk rel.,1,12,0.836423
+D4,Risk rel.,1,13,0.809176
+D4,Risk rel.,1,14,0.686988
+D4,Risk rel.,1,15,0.774367
+D4,Risk rel.,1,16,0.844923
+D4,Risk rel.,1,17,0.836946
+D4,Risk rel.,1,18,0.839532
+D4,Risk rel.,1,19,0.819403
+D4,Risk rel.,1,20,0.845993
+D4,Risk rel.,1,21,0.778361
+D4,Risk rel.,1,22,0.733439
+D4,Risk rel.,1,23,0.786251
+D4,Risk rel.,1,24,0.736079
+D4,Risk rel.,1,25,0.694364
+D4,Risk rel.,1,26,0.877356
+D4,Risk rel.,1,27,0.696245
+D4,Risk rel.,1,28,0.832645
+D4,Risk rel.,1,29,0.877223
+D4,Risk rel.,1,30,0.804336
+D4,Evidence,1,1,0.723700
+D4,Evidence,1,2,0.919636
+D4,Evidence,1,3,0.745945
+D4,Evidence,1,4,0.779474
+D4,Evidence,1,5,0.732833
+D4,Evidence,1,6,0.831529
+D4,Evidence,1,7,0.767833
+D4,Evidence,1,8,0.746569
+D4,Evidence,1,9,0.872277
+D4,Evidence,1,10,0.801326
+D4,Evidence,1,11,0.896996
+D4,Evidence,1,12,0.698620
+D4,Evidence,1,13,0.814832
+D4,Evidence,1,14,0.824003
+D4,Evidence,1,15,0.680880
+D4,Evidence,1,16,0.752554
+D4,Evidence,1,17,0.811617
+D4,Evidence,1,18,0.736467
+D4,Evidence,1,19,0.870954
+D4,Evidence,1,20,0.702945
+D4,Evidence,1,21,0.848943
+D4,Evidence,1,22,0.712083
+D4,Evidence,1,23,0.776733
+D4,Evidence,1,24,0.676539
+D4,Evidence,1,25,0.735214
+D4,Evidence,1,26,0.763943
+D4,Evidence,1,27,0.757764
+D4,Evidence,1,28,0.774667
+D4,Evidence,1,29,0.744680
+D4,Evidence,1,30,0.764301
+D4,Structure,1,1,0.704282
+D4,Structure,1,2,0.711061
+D4,Structure,1,3,0.740446
+D4,Structure,1,4,0.688174
+D4,Structure,1,5,0.694590
+D4,Structure,1,6,0.762257
+D4,Structure,1,7,0.683056
+D4,Structure,1,8,0.685938
+D4,Structure,1,9,0.692602
+D4,Structure,1,10,0.622681
+D4,Structure,1,11,0.692802
+D4,Structure,1,12,0.704063
+D4,Structure,1,13,0.698706
+D4,Structure,1,14,0.622893
+D4,Structure,1,15,0.792840
+D4,Structure,1,16,0.685686
+D4,Structure,1,17,0.677399
+D4,Structure,1,18,0.644400
+D4,Structure,1,19,0.728073
+D4,Structure,1,20,0.859758
+D4,Structure,1,21,0.779209
+D4,Structure,1,22,0.685677
+D4,Structure,1,23,0.658697
+D4,Structure,1,24,0.698079
+D4,Structure,1,25,0.737229
+D4,Structure,1,26,0.759696
+D4,Structure,1,27,0.726217
+D4,Structure,1,28,0.787126
+D4,Structure,1,29,0.640871
+D4,Structure,1,30,0.722339
+D4,Decision fidelity,1,1,0.645204
+D4,Decision fidelity,1,2,0.716737
+D4,Decision fidelity,1,3,0.628306
+D4,Decision fidelity,1,4,0.733634
+D4,Decision fidelity,1,5,0.790557
+D4,Decision fidelity,1,6,0.679126
+D4,Decision fidelity,1,7,0.765141
+D4,Decision fidelity,1,8,0.801694
+D4,Decision fidelity,1,9,0.702529
+D4,Decision fidelity,1,10,0.772895
+D4,Decision fidelity,1,11,0.762578
+D4,Decision fidelity,1,12,0.717449
+D4,Decision fidelity,1,13,0.712115
+D4,Decision fidelity,1,14,0.732465
+D4,Decision fidelity,1,15,0.635070
+D4,Decision fidelity,1,16,0.655217
+D4,Decision fidelity,1,17,0.661234
+D4,Decision fidelity,1,18,0.754841
+D4,Decision fidelity,1,19,0.804644
+D4,Decision fidelity,1,20,0.808288
+D4,Decision fidelity,1,21,0.699052
+D4,Decision fidelity,1,22,0.771019
+D4,Decision fidelity,1,23,0.783126
+D4,Decision fidelity,1,24,0.792297
+D4,Decision fidelity,1,25,0.730325
+D4,Decision fidelity,1,26,0.708614
+D4,Decision fidelity,1,27,0.711641
+D4,Decision fidelity,1,28,0.716137
+D4,Decision fidelity,1,29,0.791338
+D4,Decision fidelity,1,30,0.816125
+D1,Risk rel.,2,1,0.432035
+D1,Risk rel.,2,2,0.380954
+D1,Risk rel.,2,3,0.463335
+D1,Risk rel.,2,4,0.654563
+D1,Risk rel.,2,5,0.317375
+D1,Risk rel.,2,6,0.657073
+D1,Risk rel.,2,7,0.638813
+D1,Risk rel.,2,8,0.462216
+D1,Risk rel.,2,9,0.560854
+D1,Risk rel.,2,10,0.556096
+D1,Risk rel.,2,11,0.669759
+D1,Risk rel.,2,12,0.746555
+D1,Risk rel.,2,13,0.680466
+D1,Risk rel.,2,14,0.508952
+D1,Risk rel.,2,15,0.408514
+D1,Risk rel.,2,16,0.543072
+D1,Risk rel.,2,17,0.445380
+D1,Risk rel.,2,18,0.564450
+D1,Risk rel.,2,19,0.575494
+D1,Risk rel.,2,20,0.611553
+D1,Risk rel.,2,21,0.535471
+D1,Risk rel.,2,22,0.469254
+D1,Risk rel.,2,23,0.743113
+D1,Risk rel.,2,24,0.590279
+D1,Risk rel.,2,25,0.613368
+D1,Risk rel.,2,26,0.481856
+D1,Risk rel.,2,27,0.411458
+D1,Risk rel.,2,28,0.603493
+D1,Risk rel.,2,29,0.595817
+D1,Risk rel.,2,30,0.517965
+D1,Evidence,2,1,0.562440
+D1,Evidence,2,2,0.440655
+D1,Evidence,2,3,0.604934
+D1,Evidence,2,4,0.471221
+D1,Evidence,2,5,0.390715
+D1,Evidence,2,6,0.434267
+D1,Evidence,2,7,0.456978
+D1,Evidence,2,8,0.481770
+D1,Evidence,2,9,0.418537
+D1,Evidence,2,10,0.510475
+D1,Evidence,2,11,0.362259
+D1,Evidence,2,12,0.446133
+D1,Evidence,2,13,0.662523
+D1,Evidence,2,14,0.552632
+D1,Evidence,2,15,0.508117
+D1,Evidence,2,16,0.367426
+D1,Evidence,2,17,0.389429
+D1,Evidence,2,18,0.407582
+D1,Evidence,2,19,0.452878
+D1,Evidence,2,20,0.401145
+D1,Evidence,2,21,0.396188
+D1,Evidence,2,22,0.490263
+D1,Evidence,2,23,0.625578
+D1,Evidence,2,24,0.396807
+D1,Evidence,2,25,0.455045
+D1,Evidence,2,26,0.482220
+D1,Evidence,2,27,0.499483
+D1,Evidence,2,28,0.373717
+D1,Evidence,2,29,0.542996
+D1,Evidence,2,30,0.376391
+D1,Structure,2,1,0.444119
+D1,Structure,2,2,0.310800
+D1,Structure,2,3,0.418069
+D1,Structure,2,4,0.473711
+D1,Structure,2,5,0.414793
+D1,Structure,2,6,0.443959
+D1,Structure,2,7,0.309040
+D1,Structure,2,8,0.342140
+D1,Structure,2,9,0.372654
+D1,Structure,2,10,0.415694
+D1,Structure,2,11,0.177990
+D1,Structure,2,12,0.503598
+D1,Structure,2,13,0.424654
+D1,Structure,2,14,0.344795
+D1,Structure,2,15,0.477827
+D1,Structure,2,16,0.382721
+D1,Structure,2,17,0.422598
+D1,Structure,2,18,0.390132
+D1,Structure,2,19,0.446931
+D1,Structure,2,20,0.323765
+D1,Structure,2,21,0.329818
+D1,Structure,2,22,0.290697
+D1,Structure,2,23,0.421561
+D1,Structure,2,24,0.320779
+D1,Structure,2,25,0.477756
+D1,Structure,2,26,0.539392
+D1,Structure,2,27,0.550388
+D1,Structure,2,28,0.578247
+D1,Structure,2,29,0.374095
+D1,Structure,2,30,0.444400
+D2,Risk rel.,2,1,0.693365
+D2,Risk rel.,2,2,0.600992
+D2,Risk rel.,2,3,0.706610
+D2,Risk rel.,2,4,0.668504
+D2,Risk rel.,2,5,0.743945
+D2,Risk rel.,2,6,0.726589
+D2,Risk rel.,2,7,0.517238
+D2,Risk rel.,2,8,0.614289
+D2,Risk rel.,2,9,0.770427
+D2,Risk rel.,2,10,0.667334
+D2,Risk rel.,2,11,0.639833
+D2,Risk rel.,2,12,0.788145
+D2,Risk rel.,2,13,0.550327
+D2,Risk rel.,2,14,0.779749
+D2,Risk rel.,2,15,0.720878
+D2,Risk rel.,2,16,0.515249
+D2,Risk rel.,2,17,0.566660
+D2,Risk rel.,2,18,0.664583
+D2,Risk rel.,2,19,0.734595
+D2,Risk rel.,2,20,0.707598
+D2,Risk rel.,2,21,0.605552
+D2,Risk rel.,2,22,0.697478
+D2,Risk rel.,2,23,0.630719
+D2,Risk rel.,2,24,0.584127
+D2,Risk rel.,2,25,0.645042
+D2,Risk rel.,2,26,0.738054
+D2,Risk rel.,2,27,0.784557
+D2,Risk rel.,2,28,0.577489
+D2,Risk rel.,2,29,0.657883
+D2,Risk rel.,2,30,0.857666
+D2,Evidence,2,1,0.676490
+D2,Evidence,2,2,0.650267
+D2,Evidence,2,3,0.512821
+D2,Evidence,2,4,0.753832
+D2,Evidence,2,5,0.705341
+D2,Evidence,2,6,0.489388
+D2,Evidence,2,7,0.503540
+D2,Evidence,2,8,0.638870
+D2,Evidence,2,9,0.467910
+D2,Evidence,2,10,0.674999
+D2,Evidence,2,11,0.695004
+D2,Evidence,2,12,0.736608
+D2,Evidence,2,13,0.689127
+D2,Evidence,2,14,0.713623
+D2,Evidence,2,15,0.645187
+D2,Evidence,2,16,0.556172
+D2,Evidence,2,17,0.579212
+D2,Evidence,2,18,0.711000
+D2,Evidence,2,19,0.754896
+D2,Evidence,2,20,0.744794
+D2,Evidence,2,21,0.774872
+D2,Evidence,2,22,0.599598
+D2,Evidence,2,23,0.458213
+D2,Evidence,2,24,0.666386
+D2,Evidence,2,25,0.758978
+D2,Evidence,2,26,0.553992
+D2,Evidence,2,27,0.685014
+D2,Evidence,2,28,0.496939
+D2,Evidence,2,29,0.631979
+D2,Evidence,2,30,0.764900
+D2,Structure,2,1,0.594281
+D2,Structure,2,2,0.652723
+D2,Structure,2,3,0.487819
+D2,Structure,2,4,0.429310
+D2,Structure,2,5,0.389611
+D2,Structure,2,6,0.534233
+D2,Structure,2,7,0.427010
+D2,Structure,2,8,0.585227
+D2,Structure,2,9,0.530590
+D2,Structure,2,10,0.583449
+D2,Structure,2,11,0.411015
+D2,Structure,2,12,0.441708
+D2,Structure,2,13,0.578317
+D2,Structure,2,14,0.623763
+D2,Structure,2,15,0.600973
+D2,Structure,2,16,0.565933
+D2,Structure,2,17,0.446789
+D2,Structure,2,18,0.534039
+D2,Structure,2,19,0.536325
+D2,Structure,2,20,0.580808
+D2,Structure,2,21,0.582077
+D2,Structure,2,22,0.411121
+D2,Structure,2,23,0.576225
+D2,Structure,2,24,0.603078
+D2,Structure,2,25,0.539331
+D2,Structure,2,26,0.414529
+D2,Structure,2,27,0.549291
+D2,Structure,2,28,0.544556
+D2,Structure,2,29,0.445402
+D2,Structure,2,30,0.459525
+D3,Risk rel.,2,1,0.744055
+D3,Risk rel.,2,2,0.744885
+D3,Risk rel.,2,3,0.597200
+D3,Risk rel.,2,4,0.841514
+D3,Risk rel.,2,5,0.600575
+D3,Risk rel.,2,6,0.757101
+D3,Risk rel.,2,7,0.616607
+D3,Risk rel.,2,8,0.822481
+D3,Risk rel.,2,9,0.551530
+D3,Risk rel.,2,10,0.747699
+D3,Risk rel.,2,11,0.624358
+D3,Risk rel.,2,12,0.651012
+D3,Risk rel.,2,13,0.644750
+D3,Risk rel.,2,14,0.734795
+D3,Risk rel.,2,15,0.613352
+D3,Risk rel.,2,16,0.683461
+D3,Risk rel.,2,17,0.772130
+D3,Risk rel.,2,18,0.693740
+D3,Risk rel.,2,19,0.771063
+D3,Risk rel.,2,20,0.667292
+D3,Risk rel.,2,21,0.669481
+D3,Risk rel.,2,22,0.594188
+D3,Risk rel.,2,23,0.671402
+D3,Risk rel.,2,24,0.739155
+D3,Risk rel.,2,25,0.649015
+D3,Risk rel.,2,26,0.755333
+D3,Risk rel.,2,27,0.673683
+D3,Risk rel.,2,28,0.666403
+D3,Risk rel.,2,29,0.577857
+D3,Risk rel.,2,30,0.722027
+D3,Evidence,2,1,0.708872
+D3,Evidence,2,2,0.533712
+D3,Evidence,2,3,0.605773
+D3,Evidence,2,4,0.625623
+D3,Evidence,2,5,0.625921
+D3,Evidence,2,6,0.661712
+D3,Evidence,2,7,0.605453
+D3,Evidence,2,8,0.690707
+D3,Evidence,2,9,0.655825
+D3,Evidence,2,10,0.573806
+D3,Evidence,2,11,0.662890
+D3,Evidence,2,12,0.491247
+D3,Evidence,2,13,0.613801
+D3,Evidence,2,14,0.612576
+D3,Evidence,2,15,0.728295
+D3,Evidence,2,16,0.724921
+D3,Evidence,2,17,0.617549
+D3,Evidence,2,18,0.592681
+D3,Evidence,2,19,0.603205
+D3,Evidence,2,20,0.668345
+D3,Evidence,2,21,0.597497
+D3,Evidence,2,22,0.539137
+D3,Evidence,2,23,0.591189
+D3,Evidence,2,24,0.714796
+D3,Evidence,2,25,0.568244
+D3,Evidence,2,26,0.689137
+D3,Evidence,2,27,0.551028
+D3,Evidence,2,28,0.579764
+D3,Evidence,2,29,0.575283
+D3,Evidence,2,30,0.567530
+D3,Structure,2,1,0.758566
+D3,Structure,2,2,0.603908
+D3,Structure,2,3,0.742028
+D3,Structure,2,4,0.814918
+D3,Structure,2,5,0.780449
+D3,Structure,2,6,0.839613
+D3,Structure,2,7,0.811649
+D3,Structure,2,8,0.896305
+D3,Structure,2,9,0.704687
+D3,Structure,2,10,0.681335
+D3,Structure,2,11,0.836689
+D3,Structure,2,12,0.711890
+D3,Structure,2,13,0.830597
+D3,Structure,2,14,0.711621
+D3,Structure,2,15,0.765183
+D3,Structure,2,16,0.834430
+D3,Structure,2,17,0.739420
+D3,Structure,2,18,0.735409
+D3,Structure,2,19,0.768684
+D3,Structure,2,20,0.789028
+D3,Structure,2,21,0.749859
+D3,Structure,2,22,0.693676
+D3,Structure,2,23,0.767232
+D3,Structure,2,24,0.757634
+D3,Structure,2,25,0.710405
+D3,Structure,2,26,0.674990
+D3,Structure,2,27,0.786360
+D3,Structure,2,28,0.705899
+D3,Structure,2,29,0.768030
+D3,Structure,2,30,0.805399
+D3,Decision fidelity,2,1,0.181347
+D3,Decision fidelity,2,2,0.268178
+D3,Decision fidelity,2,3,0.255457
+D3,Decision fidelity,2,4,0.327925
+D3,Decision fidelity,2,5,0.201742
+D3,Decision fidelity,2,6,0.252264
+D3,Decision fidelity,2,7,0.187700
+D3,Decision fidelity,2,8,0.191669
+D3,Decision fidelity,2,9,0.249776
+D3,Decision fidelity,2,10,0.178545
+D3,Decision fidelity,2,11,0.320405
+D3,Decision fidelity,2,12,0.368716
+D3,Decision fidelity,2,13,0.217822
+D3,Decision fidelity,2,14,0.267607
+D3,Decision fidelity,2,15,0.356901
+D3,Decision fidelity,2,16,0.228979
+D3,Decision fidelity,2,17,0.240404
+D3,Decision fidelity,2,18,0.315497
+D3,Decision fidelity,2,19,0.275533
+D3,Decision fidelity,2,20,0.232660
+D3,Decision fidelity,2,21,0.306160
+D3,Decision fidelity,2,22,0.219867
+D3,Decision fidelity,2,23,0.314675
+D3,Decision fidelity,2,24,0.220750
+D3,Decision fidelity,2,25,0.213068
+D3,Decision fidelity,2,26,0.305302
+D3,Decision fidelity,2,27,0.215941
+D3,Decision fidelity,2,28,0.121824
+D3,Decision fidelity,2,29,0.256624
+D3,Decision fidelity,2,30,0.290650
+D4,Risk rel.,2,1,0.786056
+D4,Risk rel.,2,2,0.791944
+D4,Risk rel.,2,3,0.813891
+D4,Risk rel.,2,4,0.965244
+D4,Risk rel.,2,5,0.728786
+D4,Risk rel.,2,6,0.888595
+D4,Risk rel.,2,7,0.798802
+D4,Risk rel.,2,8,0.702838
+D4,Risk rel.,2,9,0.775851
+D4,Risk rel.,2,10,0.882262
+D4,Risk rel.,2,11,0.852145
+D4,Risk rel.,2,12,0.905462
+D4,Risk rel.,2,13,0.804588
+D4,Risk rel.,2,14,0.937392
+D4,Risk rel.,2,15,0.689571
+D4,Risk rel.,2,16,0.869048
+D4,Risk rel.,2,17,0.781005
+D4,Risk rel.,2,18,0.873084
+D4,Risk rel.,2,19,0.855243
+D4,Risk rel.,2,20,0.811109
+D4,Risk rel.,2,21,0.706949
+D4,Risk rel.,2,22,0.736956
+D4,Risk rel.,2,23,0.776295
+D4,Risk rel.,2,24,0.820135
+D4,Risk rel.,2,25,0.881208
+D4,Risk rel.,2,26,0.798512
+D4,Risk rel.,2,27,0.706650
+D4,Risk rel.,2,28,0.914107
+D4,Risk rel.,2,29,0.769567
+D4,Risk rel.,2,30,0.833372
+D4,Evidence,2,1,0.767977
+D4,Evidence,2,2,0.796651
+D4,Evidence,2,3,0.776534
+D4,Evidence,2,4,0.819799
+D4,Evidence,2,5,0.820171
+D4,Evidence,2,6,0.827932
+D4,Evidence,2,7,0.758882
+D4,Evidence,2,8,0.669059
+D4,Evidence,2,9,0.798594
+D4,Evidence,2,10,0.703053
+D4,Evidence,2,11,0.698019
+D4,Evidence,2,12,0.761687
+D4,Evidence,2,13,0.688110
+D4,Evidence,2,14,0.788094
+D4,Evidence,2,15,0.678445
+D4,Evidence,2,16,0.668919
+D4,Evidence,2,17,0.781122
+D4,Evidence,2,18,0.743722
+D4,Evidence,2,19,0.660601
+D4,Evidence,2,20,0.900673
+D4,Evidence,2,21,0.796794
+D4,Evidence,2,22,0.765023
+D4,Evidence,2,23,0.720155
+D4,Evidence,2,24,0.731527
+D4,Evidence,2,25,0.758639
+D4,Evidence,2,26,0.821338
+D4,Evidence,2,27,0.767698
+D4,Evidence,2,28,0.678398
+D4,Evidence,2,29,0.729201
+D4,Evidence,2,30,0.805037
+D4,Structure,2,1,0.834355
+D4,Structure,2,2,0.740288
+D4,Structure,2,3,0.701561
+D4,Structure,2,4,0.629317
+D4,Structure,2,5,0.748797
+D4,Structure,2,6,0.810929
+D4,Structure,2,7,0.677201
+D4,Structure,2,8,0.709647
+D4,Structure,2,9,0.730945
+D4,Structure,2,10,0.822973
+D4,Structure,2,11,0.750175
+D4,Structure,2,12,0.754589
+D4,Structure,2,13,0.753651
+D4,Structure,2,14,0.737631
+D4,Structure,2,15,0.754898
+D4,Structure,2,16,0.770060
+D4,Structure,2,17,0.817714
+D4,Structure,2,18,0.786396
+D4,Structure,2,19,0.742502
+D4,Structure,2,20,0.726404
+D4,Structure,2,21,0.603279
+D4,Structure,2,22,0.790513
+D4,Structure,2,23,0.800222
+D4,Structure,2,24,0.712066
+D4,Structure,2,25,0.828667
+D4,Structure,2,26,0.711192
+D4,Structure,2,27,0.752944
+D4,Structure,2,28,0.779572
+D4,Structure,2,29,0.690474
+D4,Structure,2,30,0.698069
+D4,Decision fidelity,2,1,0.752603
+D4,Decision fidelity,2,2,0.810473
+D4,Decision fidelity,2,3,0.691005
+D4,Decision fidelity,2,4,0.816539
+D4,Decision fidelity,2,5,0.758752
+D4,Decision fidelity,2,6,0.780363
+D4,Decision fidelity,2,7,0.666172
+D4,Decision fidelity,2,8,0.714517
+D4,Decision fidelity,2,9,0.770383
+D4,Decision fidelity,2,10,0.768091
+D4,Decision fidelity,2,11,0.664551
+D4,Decision fidelity,2,12,0.621288
+D4,Decision fidelity,2,13,0.761115
+D4,Decision fidelity,2,14,0.765859
+D4,Decision fidelity,2,15,0.672164
+D4,Decision fidelity,2,16,0.746823
+D4,Decision fidelity,2,17,0.699790
+D4,Decision fidelity,2,18,0.663899
+D4,Decision fidelity,2,19,0.715362
+D4,Decision fidelity,2,20,0.704463
+D4,Decision fidelity,2,21,0.660300
+D4,Decision fidelity,2,22,0.815417
+D4,Decision fidelity,2,23,0.734057
+D4,Decision fidelity,2,24,0.718592
+D4,Decision fidelity,2,25,0.833022
+D4,Decision fidelity,2,26,0.696816
+D4,Decision fidelity,2,27,0.756945
+D4,Decision fidelity,2,28,0.711441
+D4,Decision fidelity,2,29,0.749245
+D4,Decision fidelity,2,30,0.704727
+D1,Risk rel.,3,1,0.731842
+D1,Risk rel.,3,2,0.697379
+D1,Risk rel.,3,3,0.523470
+D1,Risk rel.,3,4,0.480134
+D1,Risk rel.,3,5,0.439335
+D1,Risk rel.,3,6,0.417085
+D1,Risk rel.,3,7,0.541006
+D1,Risk rel.,3,8,0.482667
+D1,Risk rel.,3,9,0.523801
+D1,Risk rel.,3,10,0.486554
+D1,Risk rel.,3,11,0.725475
+D1,Risk rel.,3,12,0.700673
+D1,Risk rel.,3,13,0.446678
+D1,Risk rel.,3,14,0.380705
+D1,Risk rel.,3,15,0.503142
+D1,Risk rel.,3,16,0.581302
+D1,Risk rel.,3,17,0.797838
+D1,Risk rel.,3,18,0.371767
+D1,Risk rel.,3,19,0.430170
+D1,Risk rel.,3,20,0.493771
+D1,Risk rel.,3,21,0.391496
+D1,Risk rel.,3,22,0.591939
+D1,Risk rel.,3,23,0.608043
+D1,Risk rel.,3,24,0.535855
+D1,Risk rel.,3,25,0.439238
+D1,Risk rel.,3,26,0.407039
+D1,Risk rel.,3,27,0.294202
+D1,Risk rel.,3,28,0.482829
+D1,Risk rel.,3,29,0.603334
+D1,Risk rel.,3,30,0.351217
+D1,Evidence,3,1,0.589566
+D1,Evidence,3,2,0.381149
+D1,Evidence,3,3,0.489900
+D1,Evidence,3,4,0.568146
+D1,Evidence,3,5,0.319360
+D1,Evidence,3,6,0.587896
+D1,Evidence,3,7,0.517910
+D1,Evidence,3,8,0.468956
+D1,Evidence,3,9,0.494195
+D1,Evidence,3,10,0.476701
+D1,Evidence,3,11,0.552251
+D1,Evidence,3,12,0.397816
+D1,Evidence,3,13,0.446765
+D1,Evidence,3,14,0.395624
+D1,Evidence,3,15,0.506703
+D1,Evidence,3,16,0.494455
+D1,Evidence,3,17,0.445052
+D1,Evidence,3,18,0.368500
+D1,Evidence,3,19,0.302894
+D1,Evidence,3,20,0.559701
+D1,Evidence,3,21,0.442489
+D1,Evidence,3,22,0.564257
+D1,Evidence,3,23,0.568414
+D1,Evidence,3,24,0.405933
+D1,Evidence,3,25,0.351808
+D1,Evidence,3,26,0.410397
+D1,Evidence,3,27,0.471057
+D1,Evidence,3,28,0.614064
+D1,Evidence,3,29,0.543130
+D1,Evidence,3,30,0.594679
+D1,Structure,3,1,0.403963
+D1,Structure,3,2,0.520955
+D1,Structure,3,3,0.445538
+D1,Structure,3,4,0.393327
+D1,Structure,3,5,0.288431
+D1,Structure,3,6,0.551681
+D1,Structure,3,7,0.518720
+D1,Structure,3,8,0.329282
+D1,Structure,3,9,0.494172
+D1,Structure,3,10,0.506214
+D1,Structure,3,11,0.264014
+D1,Structure,3,12,0.525999
+D1,Structure,3,13,0.471145
+D1,Structure,3,14,0.446617
+D1,Structure,3,15,0.370508
+D1,Structure,3,16,0.458586
+D1,Structure,3,17,0.510278
+D1,Structure,3,18,0.520767
+D1,Structure,3,19,0.374977
+D1,Structure,3,20,0.478417
+D1,Structure,3,21,0.331971
+D1,Structure,3,22,0.297878
+D1,Structure,3,23,0.401148
+D1,Structure,3,24,0.502497
+D1,Structure,3,25,0.453307
+D1,Structure,3,26,0.579154
+D1,Structure,3,27,0.374012
+D1,Structure,3,28,0.364957
+D1,Structure,3,29,0.551938
+D1,Structure,3,30,0.493867
+D2,Risk rel.,3,1,0.580138
+D2,Risk rel.,3,2,0.537043
+D2,Risk rel.,3,3,0.727917
+D2,Risk rel.,3,4,0.584848
+D2,Risk rel.,3,5,0.626660
+D2,Risk rel.,3,6,0.863626
+D2,Risk rel.,3,7,0.601935
+D2,Risk rel.,3,8,0.538466
+D2,Risk rel.,3,9,0.588616
+D2,Risk rel.,3,10,0.577688
+D2,Risk rel.,3,11,0.613548
+D2,Risk rel.,3,12,0.629299
+D2,Risk rel.,3,13,0.751114
+D2,Risk rel.,3,14,0.628380
+D2,Risk rel.,3,15,0.588132
+D2,Risk rel.,3,16,0.687808
+D2,Risk rel.,3,17,0.619551
+D2,Risk rel.,3,18,0.694255
+D2,Risk rel.,3,19,0.776043
+D2,Risk rel.,3,20,0.737585
+D2,Risk rel.,3,21,0.568553
+D2,Risk rel.,3,22,0.533878
+D2,Risk rel.,3,23,0.685313
+D2,Risk rel.,3,24,0.807089
+D2,Risk rel.,3,25,0.662149
+D2,Risk rel.,3,26,0.830515
+D2,Risk rel.,3,27,0.623892
+D2,Risk rel.,3,28,0.628704
+D2,Risk rel.,3,29,0.738025
+D2,Risk rel.,3,30,0.784472
+D2,Evidence,3,1,0.578474
+D2,Evidence,3,2,0.604899
+D2,Evidence,3,3,0.629119
+D2,Evidence,3,4,0.726463
+D2,Evidence,3,5,0.703636
+D2,Evidence,3,6,0.739436
+D2,Evidence,3,7,0.626513
+D2,Evidence,3,8,0.698113
+D2,Evidence,3,9,0.694729
+D2,Evidence,3,10,0.622742
+D2,Evidence,3,11,0.696584
+D2,Evidence,3,12,0.756586
+D2,Evidence,3,13,0.612712
+D2,Evidence,3,14,0.659071
+D2,Evidence,3,15,0.654819
+D2,Evidence,3,16,0.715545
+D2,Evidence,3,17,0.527243
+D2,Evidence,3,18,0.659517
+D2,Evidence,3,19,0.793684
+D2,Evidence,3,20,0.730524
+D2,Evidence,3,21,0.559094
+D2,Evidence,3,22,0.651278
+D2,Evidence,3,23,0.615730
+D2,Evidence,3,24,0.741368
+D2,Evidence,3,25,0.713953
+D2,Evidence,3,26,0.645817
+D2,Evidence,3,27,0.663081
+D2,Evidence,3,28,0.597043
+D2,Evidence,3,29,0.825596
+D2,Evidence,3,30,0.646732
+D2,Structure,3,1,0.424013
+D2,Structure,3,2,0.564331
+D2,Structure,3,3,0.607583
+D2,Structure,3,4,0.555731
+D2,Structure,3,5,0.460167
+D2,Structure,3,6,0.601007
+D2,Structure,3,7,0.498175
+D2,Structure,3,8,0.583247
+D2,Structure,3,9,0.558151
+D2,Structure,3,10,0.512108
+D2,Structure,3,11,0.608306
+D2,Structure,3,12,0.535287
+D2,Structure,3,13,0.477894
+D2,Structure,3,14,0.547582
+D2,Structure,3,15,0.538208
+D2,Structure,3,16,0.474580
+D2,Structure,3,17,0.498755
+D2,Structure,3,18,0.461977
+D2,Structure,3,19,0.507492
+D2,Structure,3,20,0.550415
+D2,Structure,3,21,0.507242
+D2,Structure,3,22,0.524190
+D2,Structure,3,23,0.578712
+D2,Structure,3,24,0.535437
+D2,Structure,3,25,0.456614
+D2,Structure,3,26,0.357043
+D2,Structure,3,27,0.501900
+D2,Structure,3,28,0.428086
+D2,Structure,3,29,0.582017
+D2,Structure,3,30,0.671935
+D3,Risk rel.,3,1,0.563313
+D3,Risk rel.,3,2,0.617330
+D3,Risk rel.,3,3,0.683689
+D3,Risk rel.,3,4,0.712410
+D3,Risk rel.,3,5,0.643903
+D3,Risk rel.,3,6,0.767729
+D3,Risk rel.,3,7,0.607317
+D3,Risk rel.,3,8,0.785155
+D3,Risk rel.,3,9,0.689520
+D3,Risk rel.,3,10,0.690862
+D3,Risk rel.,3,11,0.598006
+D3,Risk rel.,3,12,0.564883
+D3,Risk rel.,3,13,0.677715
+D3,Risk rel.,3,14,0.684512
+D3,Risk rel.,3,15,0.732017
+D3,Risk rel.,3,16,0.558404
+D3,Risk rel.,3,17,0.724729
+D3,Risk rel.,3,18,0.548613
+D3,Risk rel.,3,19,0.680108
+D3,Risk rel.,3,20,0.621267
+D3,Risk rel.,3,21,0.651200
+D3,Risk rel.,3,22,0.749797
+D3,Risk rel.,3,23,0.687034
+D3,Risk rel.,3,24,0.628987
+D3,Risk rel.,3,25,0.726966
+D3,Risk rel.,3,26,0.523814
+D3,Risk rel.,3,27,0.580386
+D3,Risk rel.,3,28,0.691211
+D3,Risk rel.,3,29,0.704839
+D3,Risk rel.,3,30,0.511488
+D3,Evidence,3,1,0.644400
+D3,Evidence,3,2,0.554193
+D3,Evidence,3,3,0.562235
+D3,Evidence,3,4,0.672769
+D3,Evidence,3,5,0.724576
+D3,Evidence,3,6,0.665116
+D3,Evidence,3,7,0.715277
+D3,Evidence,3,8,0.574820
+D3,Evidence,3,9,0.684391
+D3,Evidence,3,10,0.621729
+D3,Evidence,3,11,0.628326
+D3,Evidence,3,12,0.625848
+D3,Evidence,3,13,0.687157
+D3,Evidence,3,14,0.682631
+D3,Evidence,3,15,0.612783
+D3,Evidence,3,16,0.632103
+D3,Evidence,3,17,0.641315
+D3,Evidence,3,18,0.628436
+D3,Evidence,3,19,0.672764
+D3,Evidence,3,20,0.678449
+D3,Evidence,3,21,0.699060
+D3,Evidence,3,22,0.607142
+D3,Evidence,3,23,0.570271
+D3,Evidence,3,24,0.800107
+D3,Evidence,3,25,0.659206
+D3,Evidence,3,26,0.446356
+D3,Evidence,3,27,0.551196
+D3,Evidence,3,28,0.649512
+D3,Evidence,3,29,0.648182
+D3,Evidence,3,30,0.605048
+D3,Structure,3,1,0.845103
+D3,Structure,3,2,0.884572
+D3,Structure,3,3,0.730252
+D3,Structure,3,4,0.688605
+D3,Structure,3,5,0.766756
+D3,Structure,3,6,0.797654
+D3,Structure,3,7,0.826389
+D3,Structure,3,8,0.818451
+D3,Structure,3,9,0.746853
+D3,Structure,3,10,0.786130
+D3,Structure,3,11,0.808814
+D3,Structure,3,12,0.780901
+D3,Structure,3,13,0.759133
+D3,Structure,3,14,0.908877
+D3,Structure,3,15,0.792671
+D3,Structure,3,16,0.777951
+D3,Structure,3,17,0.830777
+D3,Structure,3,18,0.678653
+D3,Structure,3,19,0.770802
+D3,Structure,3,20,0.770786
+D3,Structure,3,21,0.687120
+D3,Structure,3,22,0.814285
+D3,Structure,3,23,0.843480
+D3,Structure,3,24,0.785056
+D3,Structure,3,25,0.730515
+D3,Structure,3,26,0.805055
+D3,Structure,3,27,0.884808
+D3,Structure,3,28,0.771742
+D3,Structure,3,29,0.840749
+D3,Structure,3,30,0.781253
+D3,Decision fidelity,3,1,0.268618
+D3,Decision fidelity,3,2,0.237941
+D3,Decision fidelity,3,3,0.311734
+D3,Decision fidelity,3,4,0.248583
+D3,Decision fidelity,3,5,0.253917
+D3,Decision fidelity,3,6,0.104756
+D3,Decision fidelity,3,7,0.221124
+D3,Decision fidelity,3,8,0.274588
+D3,Decision fidelity,3,9,0.298897
+D3,Decision fidelity,3,10,0.313619
+D3,Decision fidelity,3,11,0.279331
+D3,Decision fidelity,3,12,0.300706
+D3,Decision fidelity,3,13,0.344762
+D3,Decision fidelity,3,14,0.186403
+D3,Decision fidelity,3,15,0.218932
+D3,Decision fidelity,3,16,0.244864
+D3,Decision fidelity,3,17,0.272598
+D3,Decision fidelity,3,18,0.221048
+D3,Decision fidelity,3,19,0.218855
+D3,Decision fidelity,3,20,0.189736
+D3,Decision fidelity,3,21,0.249125
+D3,Decision fidelity,3,22,0.248812
+D3,Decision fidelity,3,23,0.210877
+D3,Decision fidelity,3,24,0.276151
+D3,Decision fidelity,3,25,0.290946
+D3,Decision fidelity,3,26,0.205984
+D3,Decision fidelity,3,27,0.325366
+D3,Decision fidelity,3,28,0.342352
+D3,Decision fidelity,3,29,0.253330
+D3,Decision fidelity,3,30,0.283868
+D4,Risk rel.,3,1,0.672916
+D4,Risk rel.,3,2,0.734623
+D4,Risk rel.,3,3,0.897192
+D4,Risk rel.,3,4,0.843700
+D4,Risk rel.,3,5,0.739558
+D4,Risk rel.,3,6,0.685915
+D4,Risk rel.,3,7,0.810961
+D4,Risk rel.,3,8,0.856614
+D4,Risk rel.,3,9,0.862559
+D4,Risk rel.,3,10,0.611103
+D4,Risk rel.,3,11,0.875050
+D4,Risk rel.,3,12,0.862452
+D4,Risk rel.,3,13,0.887949
+D4,Risk rel.,3,14,0.722871
+D4,Risk rel.,3,15,0.865344
+D4,Risk rel.,3,16,0.807808
+D4,Risk rel.,3,17,0.761137
+D4,Risk rel.,3,18,0.762936
+D4,Risk rel.,3,19,0.858666
+D4,Risk rel.,3,20,0.847676
+D4,Risk rel.,3,21,0.878299
+D4,Risk rel.,3,22,0.800681
+D4,Risk rel.,3,23,0.845258
+D4,Risk rel.,3,24,0.793292
+D4,Risk rel.,3,25,0.808313
+D4,Risk rel.,3,26,0.800409
+D4,Risk rel.,3,27,0.812968
+D4,Risk rel.,3,28,0.810698
+D4,Risk rel.,3,29,0.804583
+D4,Risk rel.,3,30,0.923766
+D4,Evidence,3,1,0.667392
+D4,Evidence,3,2,0.764845
+D4,Evidence,3,3,0.718424
+D4,Evidence,3,4,0.729262
+D4,Evidence,3,5,0.685308
+D4,Evidence,3,6,0.771085
+D4,Evidence,3,7,0.700287
+D4,Evidence,3,8,0.590040
+D4,Evidence,3,9,0.673135
+D4,Evidence,3,10,0.717483
+D4,Evidence,3,11,0.735188
+D4,Evidence,3,12,0.758279
+D4,Evidence,3,13,0.797302
+D4,Evidence,3,14,0.791484
+D4,Evidence,3,15,0.786361
+D4,Evidence,3,16,0.741468
+D4,Evidence,3,17,0.746156
+D4,Evidence,3,18,0.788186
+D4,Evidence,3,19,0.699077
+D4,Evidence,3,20,0.646458
+D4,Evidence,3,21,0.767294
+D4,Evidence,3,22,0.786962
+D4,Evidence,3,23,0.736437
+D4,Evidence,3,24,0.821712
+D4,Evidence,3,25,0.752343
+D4,Evidence,3,26,0.823078
+D4,Evidence,3,27,0.697926
+D4,Evidence,3,28,0.713702
+D4,Evidence,3,29,0.846034
+D4,Evidence,3,30,0.706808
+D4,Structure,3,1,0.795324
+D4,Structure,3,2,0.678012
+D4,Structure,3,3,0.666124
+D4,Structure,3,4,0.703005
+D4,Structure,3,5,0.593984
+D4,Structure,3,6,0.753422
+D4,Structure,3,7,0.651472
+D4,Structure,3,8,0.863957
+D4,Structure,3,9,0.717584
+D4,Structure,3,10,0.685075
+D4,Structure,3,11,0.680498
+D4,Structure,3,12,0.718900
+D4,Structure,3,13,0.659506
+D4,Structure,3,14,0.681068
+D4,Structure,3,15,0.782565
+D4,Structure,3,16,0.760428
+D4,Structure,3,17,0.701939
+D4,Structure,3,18,0.651425
+D4,Structure,3,19,0.669539
+D4,Structure,3,20,0.766355
+D4,Structure,3,21,0.631467
+D4,Structure,3,22,0.744084
+D4,Structure,3,23,0.764567
+D4,Structure,3,24,0.728274
+D4,Structure,3,25,0.854774
+D4,Structure,3,26,0.757988
+D4,Structure,3,27,0.781466
+D4,Structure,3,28,0.711590
+D4,Structure,3,29,0.788576
+D4,Structure,3,30,0.794972
+D4,Decision fidelity,3,1,0.768130
+D4,Decision fidelity,3,2,0.670955
+D4,Decision fidelity,3,3,0.725314
+D4,Decision fidelity,3,4,0.730014
+D4,Decision fidelity,3,5,0.801732
+D4,Decision fidelity,3,6,0.630816
+D4,Decision fidelity,3,7,0.633665
+D4,Decision fidelity,3,8,0.682843
+D4,Decision fidelity,3,9,0.732887
+D4,Decision fidelity,3,10,0.739240
+D4,Decision fidelity,3,11,0.692532
+D4,Decision fidelity,3,12,0.637267
+D4,Decision fidelity,3,13,0.705192
+D4,Decision fidelity,3,14,0.731821
+D4,Decision fidelity,3,15,0.691764
+D4,Decision fidelity,3,16,0.752525
+D4,Decision fidelity,3,17,0.698182
+D4,Decision fidelity,3,18,0.779718
+D4,Decision fidelity,3,19,0.780778
+D4,Decision fidelity,3,20,0.739987
+D4,Decision fidelity,3,21,0.622975
+D4,Decision fidelity,3,22,0.675324
+D4,Decision fidelity,3,23,0.719003
+D4,Decision fidelity,3,24,0.666225
+D4,Decision fidelity,3,25,0.697293
+D4,Decision fidelity,3,26,0.786535
+D4,Decision fidelity,3,27,0.759198
+D4,Decision fidelity,3,28,0.723660
+D4,Decision fidelity,3,29,0.669745
+D4,Decision fidelity,3,30,0.708979
+D1,Risk rel.,4,1,0.560624
+D1,Risk rel.,4,2,0.644507
+D1,Risk rel.,4,3,0.474919
+D1,Risk rel.,4,4,0.315280
+D1,Risk rel.,4,5,0.575425
+D1,Risk rel.,4,6,0.560459
+D1,Risk rel.,4,7,0.404017
+D1,Risk rel.,4,8,0.717359
+D1,Risk rel.,4,9,0.577127
+D1,Risk rel.,4,10,0.563372
+D1,Risk rel.,4,11,0.405947
+D1,Risk rel.,4,12,0.668002
+D1,Risk rel.,4,13,0.329983
+D1,Risk rel.,4,14,0.515492
+D1,Risk rel.,4,15,0.351831
+D1,Risk rel.,4,16,0.492142
+D1,Risk rel.,4,17,0.521539
+D1,Risk rel.,4,18,0.535312
+D1,Risk rel.,4,19,0.534946
+D1,Risk rel.,4,20,0.599806
+D1,Risk rel.,4,21,0.451677
+D1,Risk rel.,4,22,0.496294
+D1,Risk rel.,4,23,0.576721
+D1,Risk rel.,4,24,0.509362
+D1,Risk rel.,4,25,0.598040
+D1,Risk rel.,4,26,0.613334
+D1,Risk rel.,4,27,0.420117
+D1,Risk rel.,4,28,0.479503
+D1,Risk rel.,4,29,0.572935
+D1,Risk rel.,4,30,0.441458
+D1,Evidence,4,1,0.479565
+D1,Evidence,4,2,0.451658
+D1,Evidence,4,3,0.514938
+D1,Evidence,4,4,0.565334
+D1,Evidence,4,5,0.566362
+D1,Evidence,4,6,0.600715
+D1,Evidence,4,7,0.572503
+D1,Evidence,4,8,0.622263
+D1,Evidence,4,9,0.566290
+D1,Evidence,4,10,0.384060
+D1,Evidence,4,11,0.363757
+D1,Evidence,4,12,0.553181
+D1,Evidence,4,13,0.416150
+D1,Evidence,4,14,0.514445
+D1,Evidence,4,15,0.506620
+D1,Evidence,4,16,0.474270
+D1,Evidence,4,17,0.465232
+D1,Evidence,4,18,0.517785
+D1,Evidence,4,19,0.433773
+D1,Evidence,4,20,0.511172
+D1,Evidence,4,21,0.467118
+D1,Evidence,4,22,0.452887
+D1,Evidence,4,23,0.535598
+D1,Evidence,4,24,0.465081
+D1,Evidence,4,25,0.448353
+D1,Evidence,4,26,0.560441
+D1,Evidence,4,27,0.572461
+D1,Evidence,4,28,0.472548
+D1,Evidence,4,29,0.400692
+D1,Evidence,4,30,0.481031
+D1,Structure,4,1,0.360301
+D1,Structure,4,2,0.488358
+D1,Structure,4,3,0.373412
+D1,Structure,4,4,0.292718
+D1,Structure,4,5,0.583997
+D1,Structure,4,6,0.352697
+D1,Structure,4,7,0.420300
+D1,Structure,4,8,0.406823
+D1,Structure,4,9,0.409391
+D1,Structure,4,10,0.386191
+D1,Structure,4,11,0.412452
+D1,Structure,4,12,0.395958
+D1,Structure,4,13,0.413234
+D1,Structure,4,14,0.365593
+D1,Structure,4,15,0.206878
+D1,Structure,4,16,0.392903
+D1,Structure,4,17,0.444109
+D1,Structure,4,18,0.432843
+D1,Structure,4,19,0.374912
+D1,Structure,4,20,0.402777
+D1,Structure,4,21,0.409385
+D1,Structure,4,22,0.488359
+D1,Structure,4,23,0.421577
+D1,Structure,4,24,0.452140
+D1,Structure,4,25,0.402643
+D1,Structure,4,26,0.341965
+D1,Structure,4,27,0.457903
+D1,Structure,4,28,0.572611
+D1,Structure,4,29,0.281254
+D1,Structure,4,30,0.527076
+D2,Risk rel.,4,1,0.799418
+D2,Risk rel.,4,2,0.677493
+D2,Risk rel.,4,3,0.661301
+D2,Risk rel.,4,4,0.714549
+D2,Risk rel.,4,5,0.499324
+D2,Risk rel.,4,6,0.630803
+D2,Risk rel.,4,7,0.539276
+D2,Risk rel.,4,8,0.654168
+D2,Risk rel.,4,9,0.625123
+D2,Risk rel.,4,10,0.590935
+D2,Risk rel.,4,11,0.694225
+D2,Risk rel.,4,12,0.715002
+D2,Risk rel.,4,13,0.700916
+D2,Risk rel.,4,14,0.680999
+D2,Risk rel.,4,15,0.659101
+D2,Risk rel.,4,16,0.620361
+D2,Risk rel.,4,17,0.712908
+D2,Risk rel.,4,18,0.666959
+D2,Risk rel.,4,19,0.684357
+D2,Risk rel.,4,20,0.571960
+D2,Risk rel.,4,21,0.622976
+D2,Risk rel.,4,22,0.557973
+D2,Risk rel.,4,23,0.666209
+D2,Risk rel.,4,24,0.717254
+D2,Risk rel.,4,25,0.722122
+D2,Risk rel.,4,26,0.617051
+D2,Risk rel.,4,27,0.579258
+D2,Risk rel.,4,28,0.619043
+D2,Risk rel.,4,29,0.656679
+D2,Risk rel.,4,30,0.683703
+D2,Evidence,4,1,0.670367
+D2,Evidence,4,2,0.692859
+D2,Evidence,4,3,0.559455
+D2,Evidence,4,4,0.725547
+D2,Evidence,4,5,0.700433
+D2,Evidence,4,6,0.724227
+D2,Evidence,4,7,0.625152
+D2,Evidence,4,8,0.567454
+D2,Evidence,4,9,0.568208
+D2,Evidence,4,10,0.543286
+D2,Evidence,4,11,0.591227
+D2,Evidence,4,12,0.751101
+D2,Evidence,4,13,0.666246
+D2,Evidence,4,14,0.624583
+D2,Evidence,4,15,0.639227
+D2,Evidence,4,16,0.688292
+D2,Evidence,4,17,0.548562
+D2,Evidence,4,18,0.846940
+D2,Evidence,4,19,0.787481
+D2,Evidence,4,20,0.739024
+D2,Evidence,4,21,0.690367
+D2,Evidence,4,22,0.571768
+D2,Evidence,4,23,0.718347
+D2,Evidence,4,24,0.725695
+D2,Evidence,4,25,0.650529
+D2,Evidence,4,26,0.590804
+D2,Evidence,4,27,0.747757
+D2,Evidence,4,28,0.720078
+D2,Evidence,4,29,0.812617
+D2,Evidence,4,30,0.738218
+D2,Structure,4,1,0.631735
+D2,Structure,4,2,0.554713
+D2,Structure,4,3,0.531612
+D2,Structure,4,4,0.486835
+D2,Structure,4,5,0.688453
+D2,Structure,4,6,0.581174
+D2,Structure,4,7,0.542934
+D2,Structure,4,8,0.590684
+D2,Structure,4,9,0.562061
+D2,Structure,4,10,0.572576
+D2,Structure,4,11,0.567508
+D2,Structure,4,12,0.574016
+D2,Structure,4,13,0.467691
+D2,Structure,4,14,0.566238
+D2,Structure,4,15,0.700851
+D2,Structure,4,16,0.557511
+D2,Structure,4,17,0.459883
+D2,Structure,4,18,0.584070
+D2,Structure,4,19,0.514313
+D2,Structure,4,20,0.636747
+D2,Structure,4,21,0.534972
+D2,Structure,4,22,0.577079
+D2,Structure,4,23,0.633452
+D2,Structure,4,24,0.556097
+D2,Structure,4,25,0.624362
+D2,Structure,4,26,0.485549
+D2,Structure,4,27,0.463861
+D2,Structure,4,28,0.516965
+D2,Structure,4,29,0.558849
+D2,Structure,4,30,0.559859
+D3,Risk rel.,4,1,0.686518
+D3,Risk rel.,4,2,0.683805
+D3,Risk rel.,4,3,0.664485
+D3,Risk rel.,4,4,0.572098
+D3,Risk rel.,4,5,0.739701
+D3,Risk rel.,4,6,0.653813
+D3,Risk rel.,4,7,0.771172
+D3,Risk rel.,4,8,0.703040
+D3,Risk rel.,4,9,0.636525
+D3,Risk rel.,4,10,0.699642
+D3,Risk rel.,4,11,0.704980
+D3,Risk rel.,4,12,0.630991
+D3,Risk rel.,4,13,0.769495
+D3,Risk rel.,4,14,0.528350
+D3,Risk rel.,4,15,0.662443
+D3,Risk rel.,4,16,0.769278
+D3,Risk rel.,4,17,0.738883
+D3,Risk rel.,4,18,0.703272
+D3,Risk rel.,4,19,0.576102
+D3,Risk rel.,4,20,0.613567
+D3,Risk rel.,4,21,0.658864
+D3,Risk rel.,4,22,0.644321
+D3,Risk rel.,4,23,0.724681
+D3,Risk rel.,4,24,0.776948
+D3,Risk rel.,4,25,0.679847
+D3,Risk rel.,4,26,0.558263
+D3,Risk rel.,4,27,0.678460
+D3,Risk rel.,4,28,0.702805
+D3,Risk rel.,4,29,0.754715
+D3,Risk rel.,4,30,0.595796
+D3,Evidence,4,1,0.608456
+D3,Evidence,4,2,0.536565
+D3,Evidence,4,3,0.658024
+D3,Evidence,4,4,0.724366
+D3,Evidence,4,5,0.609302
+D3,Evidence,4,6,0.622146
+D3,Evidence,4,7,0.622836
+D3,Evidence,4,8,0.642570
+D3,Evidence,4,9,0.564664
+D3,Evidence,4,10,0.580646
+D3,Evidence,4,11,0.696410
+D3,Evidence,4,12,0.566208
+D3,Evidence,4,13,0.473079
+D3,Evidence,4,14,0.580790
+D3,Evidence,4,15,0.661542
+D3,Evidence,4,16,0.641519
+D3,Evidence,4,17,0.652183
+D3,Evidence,4,18,0.493320
+D3,Evidence,4,19,0.642069
+D3,Evidence,4,20,0.669840
+D3,Evidence,4,21,0.657771
+D3,Evidence,4,22,0.723401
+D3,Evidence,4,23,0.718679
+D3,Evidence,4,24,0.573642
+D3,Evidence,4,25,0.658214
+D3,Evidence,4,26,0.599958
+D3,Evidence,4,27,0.677679
+D3,Evidence,4,28,0.586373
+D3,Evidence,4,29,0.552008
+D3,Evidence,4,30,0.560555
+D3,Structure,4,1,0.782296
+D3,Structure,4,2,0.837021
+D3,Structure,4,3,0.822596
+D3,Structure,4,4,0.759206
+D3,Structure,4,5,0.733047
+D3,Structure,4,6,0.733061
+D3,Structure,4,7,0.909008
+D3,Structure,4,8,0.841108
+D3,Structure,4,9,0.771818
+D3,Structure,4,10,0.858344
+D3,Structure,4,11,0.840577
+D3,Structure,4,12,0.739907
+D3,Structure,4,13,0.874252
+D3,Structure,4,14,0.703043
+D3,Structure,4,15,0.711328
+D3,Structure,4,16,0.770721
+D3,Structure,4,17,0.765841
+D3,Structure,4,18,0.742449
+D3,Structure,4,19,0.760992
+D3,Structure,4,20,0.818394
+D3,Structure,4,21,0.724503
+D3,Structure,4,22,0.802095
+D3,Structure,4,23,0.766574
+D3,Structure,4,24,0.938545
+D3,Structure,4,25,0.817161
+D3,Structure,4,26,0.724548
+D3,Structure,4,27,0.707883
+D3,Structure,4,28,0.673449
+D3,Structure,4,29,0.609187
+D3,Structure,4,30,0.819705
+D3,Decision fidelity,4,1,0.226491
+D3,Decision fidelity,4,2,0.039612
+D3,Decision fidelity,4,3,0.305397
+D3,Decision fidelity,4,4,0.238399
+D3,Decision fidelity,4,5,0.202876
+D3,Decision fidelity,4,6,0.248303
+D3,Decision fidelity,4,7,0.284047
+D3,Decision fidelity,4,8,0.255021
+D3,Decision fidelity,4,9,0.327823
+D3,Decision fidelity,4,10,0.217477
+D3,Decision fidelity,4,11,0.225544
+D3,Decision fidelity,4,12,0.393828
+D3,Decision fidelity,4,13,0.207580
+D3,Decision fidelity,4,14,0.215459
+D3,Decision fidelity,4,15,0.257575
+D3,Decision fidelity,4,16,0.313056
+D3,Decision fidelity,4,17,0.192196
+D3,Decision fidelity,4,18,0.158564
+D3,Decision fidelity,4,19,0.280736
+D3,Decision fidelity,4,20,0.221161
+D3,Decision fidelity,4,21,0.278437
+D3,Decision fidelity,4,22,0.235858
+D3,Decision fidelity,4,23,0.343966
+D3,Decision fidelity,4,24,0.223947
+D3,Decision fidelity,4,25,0.270243
+D3,Decision fidelity,4,26,0.327269
+D3,Decision fidelity,4,27,0.366400
+D3,Decision fidelity,4,28,0.311890
+D3,Decision fidelity,4,29,0.277722
+D3,Decision fidelity,4,30,0.340519
+D4,Risk rel.,4,1,0.820212
+D4,Risk rel.,4,2,0.841783
+D4,Risk rel.,4,3,0.768200
+D4,Risk rel.,4,4,0.812656
+D4,Risk rel.,4,5,0.798782
+D4,Risk rel.,4,6,0.833887
+D4,Risk rel.,4,7,0.826998
+D4,Risk rel.,4,8,0.871300
+D4,Risk rel.,4,9,0.756568
+D4,Risk rel.,4,10,0.693305
+D4,Risk rel.,4,11,0.840847
+D4,Risk rel.,4,12,0.822436
+D4,Risk rel.,4,13,0.763624
+D4,Risk rel.,4,14,0.872820
+D4,Risk rel.,4,15,0.771792
+D4,Risk rel.,4,16,0.882506
+D4,Risk rel.,4,17,0.858312
+D4,Risk rel.,4,18,0.745337
+D4,Risk rel.,4,19,0.977309
+D4,Risk rel.,4,20,0.869549
+D4,Risk rel.,4,21,0.782100
+D4,Risk rel.,4,22,0.756492
+D4,Risk rel.,4,23,0.714667
+D4,Risk rel.,4,24,0.806369
+D4,Risk rel.,4,25,0.869722
+D4,Risk rel.,4,26,0.879724
+D4,Risk rel.,4,27,0.882047
+D4,Risk rel.,4,28,0.931120
+D4,Risk rel.,4,29,0.775492
+D4,Risk rel.,4,30,0.865459
+D4,Evidence,4,1,0.771702
+D4,Evidence,4,2,0.594583
+D4,Evidence,4,3,0.783143
+D4,Evidence,4,4,0.815725
+D4,Evidence,4,5,0.729502
+D4,Evidence,4,6,0.719850
+D4,Evidence,4,7,0.753017
+D4,Evidence,4,8,0.757291
+D4,Evidence,4,9,0.790527
+D4,Evidence,4,10,0.774438
+D4,Evidence,4,11,0.805750
+D4,Evidence,4,12,0.699950
+D4,Evidence,4,13,0.657329
+D4,Evidence,4,14,0.667584
+D4,Evidence,4,15,0.715846
+D4,Evidence,4,16,0.786270
+D4,Evidence,4,17,0.868442
+D4,Evidence,4,18,0.779320
+D4,Evidence,4,19,0.799247
+D4,Evidence,4,20,0.742211
+D4,Evidence,4,21,0.771924
+D4,Evidence,4,22,0.718424
+D4,Evidence,4,23,0.654644
+D4,Evidence,4,24,0.797266
+D4,Evidence,4,25,0.796190
+D4,Evidence,4,26,0.724267
+D4,Evidence,4,27,0.728875
+D4,Evidence,4,28,0.849509
+D4,Evidence,4,29,0.676536
+D4,Evidence,4,30,0.739395
+D4,Structure,4,1,0.819299
+D4,Structure,4,2,0.734089
+D4,Structure,4,3,0.864528
+D4,Structure,4,4,0.680256
+D4,Structure,4,5,0.778899
+D4,Structure,4,6,0.746807
+D4,Structure,4,7,0.763111
+D4,Structure,4,8,0.732970
+D4,Structure,4,9,0.753841
+D4,Structure,4,10,0.736007
+D4,Structure,4,11,0.887710
+D4,Structure,4,12,0.711603
+D4,Structure,4,13,0.716749
+D4,Structure,4,14,0.725024
+D4,Structure,4,15,0.742623
+D4,Structure,4,16,0.646364
+D4,Structure,4,17,0.795140
+D4,Structure,4,18,0.674312
+D4,Structure,4,19,0.774365
+D4,Structure,4,20,0.649380
+D4,Structure,4,21,0.738943
+D4,Structure,4,22,0.718235
+D4,Structure,4,23,0.809864
+D4,Structure,4,24,0.793389
+D4,Structure,4,25,0.755445
+D4,Structure,4,26,0.691913
+D4,Structure,4,27,0.769498
+D4,Structure,4,28,0.734795
+D4,Structure,4,29,0.875107
+D4,Structure,4,30,0.681860
+D4,Decision fidelity,4,1,0.783729
+D4,Decision fidelity,4,2,0.653661
+D4,Decision fidelity,4,3,0.670705
+D4,Decision fidelity,4,4,0.720888
+D4,Decision fidelity,4,5,0.680463
+D4,Decision fidelity,4,6,0.690958
+D4,Decision fidelity,4,7,0.743533
+D4,Decision fidelity,4,8,0.767086
+D4,Decision fidelity,4,9,0.691053
+D4,Decision fidelity,4,10,0.795605
+D4,Decision fidelity,4,11,0.773308
+D4,Decision fidelity,4,12,0.777033
+D4,Decision fidelity,4,13,0.640729
+D4,Decision fidelity,4,14,0.650996
+D4,Decision fidelity,4,15,0.682992
+D4,Decision fidelity,4,16,0.796923
+D4,Decision fidelity,4,17,0.808825
+D4,Decision fidelity,4,18,0.711279
+D4,Decision fidelity,4,19,0.764026
+D4,Decision fidelity,4,20,0.760433
+D4,Decision fidelity,4,21,0.657229
+D4,Decision fidelity,4,22,0.747546
+D4,Decision fidelity,4,23,0.690899
+D4,Decision fidelity,4,24,0.737988
+D4,Decision fidelity,4,25,0.789871
+D4,Decision fidelity,4,26,0.750132
+D4,Decision fidelity,4,27,0.619272
+D4,Decision fidelity,4,28,0.737506
+D4,Decision fidelity,4,29,0.750950
+D4,Decision fidelity,4,30,0.694020
+D1,Risk rel.,5,1,0.577711
+D1,Risk rel.,5,2,0.635661
+D1,Risk rel.,5,3,0.666681
+D1,Risk rel.,5,4,0.514329
+D1,Risk rel.,5,5,0.608654
+D1,Risk rel.,5,6,0.447170
+D1,Risk rel.,5,7,0.758126
+D1,Risk rel.,5,8,0.551411
+D1,Risk rel.,5,9,0.636967
+D1,Risk rel.,5,10,0.306127
+D1,Risk rel.,5,11,0.441923
+D1,Risk rel.,5,12,0.555405
+D1,Risk rel.,5,13,0.507398
+D1,Risk rel.,5,14,0.425440
+D1,Risk rel.,5,15,0.625119
+D1,Risk rel.,5,16,0.508319
+D1,Risk rel.,5,17,0.731686
+D1,Risk rel.,5,18,0.416063
+D1,Risk rel.,5,19,0.462855
+D1,Risk rel.,5,20,0.377333
+D1,Risk rel.,5,21,0.446450
+D1,Risk rel.,5,22,0.500818
+D1,Risk rel.,5,23,0.550113
+D1,Risk rel.,5,24,0.685732
+D1,Risk rel.,5,25,0.623490
+D1,Risk rel.,5,26,0.465711
+D1,Risk rel.,5,27,0.510046
+D1,Risk rel.,5,28,0.501390
+D1,Risk rel.,5,29,0.634693
+D1,Risk rel.,5,30,0.360402
+D1,Evidence,5,1,0.511397
+D1,Evidence,5,2,0.492113
+D1,Evidence,5,3,0.527593
+D1,Evidence,5,4,0.476106
+D1,Evidence,5,5,0.489873
+D1,Evidence,5,6,0.415771
+D1,Evidence,5,7,0.350017
+D1,Evidence,5,8,0.397624
+D1,Evidence,5,9,0.614117
+D1,Evidence,5,10,0.261232
+D1,Evidence,5,11,0.489769
+D1,Evidence,5,12,0.380460
+D1,Evidence,5,13,0.501743
+D1,Evidence,5,14,0.536706
+D1,Evidence,5,15,0.409925
+D1,Evidence,5,16,0.514499
+D1,Evidence,5,17,0.304594
+D1,Evidence,5,18,0.300950
+D1,Evidence,5,19,0.635967
+D1,Evidence,5,20,0.579487
+D1,Evidence,5,21,0.455691
+D1,Evidence,5,22,0.433191
+D1,Evidence,5,23,0.516806
+D1,Evidence,5,24,0.289090
+D1,Evidence,5,25,0.403687
+D1,Evidence,5,26,0.466925
+D1,Evidence,5,27,0.559314
+D1,Evidence,5,28,0.377134
+D1,Evidence,5,29,0.535706
+D1,Evidence,5,30,0.495797
+D1,Structure,5,1,0.422757
+D1,Structure,5,2,0.346129
+D1,Structure,5,3,0.507158
+D1,Structure,5,4,0.348996
+D1,Structure,5,5,0.334435
+D1,Structure,5,6,0.362568
+D1,Structure,5,7,0.463845
+D1,Structure,5,8,0.570360
+D1,Structure,5,9,0.379885
+D1,Structure,5,10,0.500488
+D1,Structure,5,11,0.416395
+D1,Structure,5,12,0.428009
+D1,Structure,5,13,0.533312
+D1,Structure,5,14,0.346540
+D1,Structure,5,15,0.347958
+D1,Structure,5,16,0.367116
+D1,Structure,5,17,0.509333
+D1,Structure,5,18,0.497714
+D1,Structure,5,19,0.692063
+D1,Structure,5,20,0.346428
+D1,Structure,5,21,0.453354
+D1,Structure,5,22,0.246140
+D1,Structure,5,23,0.537791
+D1,Structure,5,24,0.315400
+D1,Structure,5,25,0.347312
+D1,Structure,5,26,0.489112
+D1,Structure,5,27,0.510663
+D1,Structure,5,28,0.549200
+D1,Structure,5,29,0.329884
+D1,Structure,5,30,0.470609
+D2,Risk rel.,5,1,0.533289
+D2,Risk rel.,5,2,0.611829
+D2,Risk rel.,5,3,0.490836
+D2,Risk rel.,5,4,0.713407
+D2,Risk rel.,5,5,0.708671
+D2,Risk rel.,5,6,0.740204
+D2,Risk rel.,5,7,0.545676
+D2,Risk rel.,5,8,0.714295
+D2,Risk rel.,5,9,0.711143
+D2,Risk rel.,5,10,0.745704
+D2,Risk rel.,5,11,0.731820
+D2,Risk rel.,5,12,0.776369
+D2,Risk rel.,5,13,0.638751
+D2,Risk rel.,5,14,0.568482
+D2,Risk rel.,5,15,0.629126
+D2,Risk rel.,5,16,0.649303
+D2,Risk rel.,5,17,0.516996
+D2,Risk rel.,5,18,0.702203
+D2,Risk rel.,5,19,0.639495
+D2,Risk rel.,5,20,0.759548
+D2,Risk rel.,5,21,0.660685
+D2,Risk rel.,5,22,0.663563
+D2,Risk rel.,5,23,0.684769
+D2,Risk rel.,5,24,0.740792
+D2,Risk rel.,5,25,0.575928
+D2,Risk rel.,5,26,0.738643
+D2,Risk rel.,5,27,0.750440
+D2,Risk rel.,5,28,0.667137
+D2,Risk rel.,5,29,0.514244
+D2,Risk rel.,5,30,0.615021
+D2,Evidence,5,1,0.674161
+D2,Evidence,5,2,0.663337
+D2,Evidence,5,3,0.640739
+D2,Evidence,5,4,0.769601
+D2,Evidence,5,5,0.634530
+D2,Evidence,5,6,0.645838
+D2,Evidence,5,7,0.586160
+D2,Evidence,5,8,0.630000
+D2,Evidence,5,9,0.575451
+D2,Evidence,5,10,0.552080
+D2,Evidence,5,11,0.614063
+D2,Evidence,5,12,0.600193
+D2,Evidence,5,13,0.627990
+D2,Evidence,5,14,0.661388
+D2,Evidence,5,15,0.787545
+D2,Evidence,5,16,0.652236
+D2,Evidence,5,17,0.641318
+D2,Evidence,5,18,0.661563
+D2,Evidence,5,19,0.484968
+D2,Evidence,5,20,0.638331
+D2,Evidence,5,21,0.714365
+D2,Evidence,5,22,0.766798
+D2,Evidence,5,23,0.489140
+D2,Evidence,5,24,0.528740
+D2,Evidence,5,25,0.658407
+D2,Evidence,5,26,0.575484
+D2,Evidence,5,27,0.650944
+D2,Evidence,5,28,0.794320
+D2,Evidence,5,29,0.608820
+D2,Evidence,5,30,0.642269
+D2,Structure,5,1,0.507221
+D2,Structure,5,2,0.389650
+D2,Structure,5,3,0.570205
+D2,Structure,5,4,0.673420
+D2,Structure,5,5,0.600651
+D2,Structure,5,6,0.622671
+D2,Structure,5,7,0.458844
+D2,Structure,5,8,0.441503
+D2,Structure,5,9,0.444293
+D2,Structure,5,10,0.564166
+D2,Structure,5,11,0.441053
+D2,Structure,5,12,0.537320
+D2,Structure,5,13,0.681007
+D2,Structure,5,14,0.626542
+D2,Structure,5,15,0.455411
+D2,Structure,5,16,0.613566
+D2,Structure,5,17,0.595299
+D2,Structure,5,18,0.566041
+D2,Structure,5,19,0.515802
+D2,Structure,5,20,0.543376
+D2,Structure,5,21,0.388989
+D2,Structure,5,22,0.489184
+D2,Structure,5,23,0.593632
+D2,Structure,5,24,0.570605
+D2,Structure,5,25,0.514129
+D2,Structure,5,26,0.455659
+D2,Structure,5,27,0.444330
+D2,Structure,5,28,0.578563
+D2,Structure,5,29,0.667331
+D2,Structure,5,30,0.648098
+D3,Risk rel.,5,1,0.712169
+D3,Risk rel.,5,2,0.702600
+D3,Risk rel.,5,3,0.795960
+D3,Risk rel.,5,4,0.597493
+D3,Risk rel.,5,5,0.617010
+D3,Risk rel.,5,6,0.892288
+D3,Risk rel.,5,7,0.665627
+D3,Risk rel.,5,8,0.775147
+D3,Risk rel.,5,9,0.723711
+D3,Risk rel.,5,10,0.620434
+D3,Risk rel.,5,11,0.717295
+D3,Risk rel.,5,12,0.530386
+D3,Risk rel.,5,13,0.749985
+D3,Risk rel.,5,14,0.579230
+D3,Risk rel.,5,15,0.713662
+D3,Risk rel.,5,16,0.578733
+D3,Risk rel.,5,17,0.792453
+D3,Risk rel.,5,18,0.660793
+D3,Risk rel.,5,19,0.743393
+D3,Risk rel.,5,20,0.666557
+D3,Risk rel.,5,21,0.709014
+D3,Risk rel.,5,22,0.819322
+D3,Risk rel.,5,23,0.608460
+D3,Risk rel.,5,24,0.550793
+D3,Risk rel.,5,25,0.738711
+D3,Risk rel.,5,26,0.691608
+D3,Risk rel.,5,27,0.690081
+D3,Risk rel.,5,28,0.690700
+D3,Risk rel.,5,29,0.706344
+D3,Risk rel.,5,30,0.704997
+D3,Evidence,5,1,0.520706
+D3,Evidence,5,2,0.686637
+D3,Evidence,5,3,0.639295
+D3,Evidence,5,4,0.674113
+D3,Evidence,5,5,0.618562
+D3,Evidence,5,6,0.655654
+D3,Evidence,5,7,0.596477
+D3,Evidence,5,8,0.534684
+D3,Evidence,5,9,0.591836
+D3,Evidence,5,10,0.607421
+D3,Evidence,5,11,0.750188
+D3,Evidence,5,12,0.723682
+D3,Evidence,5,13,0.597636
+D3,Evidence,5,14,0.610495
+D3,Evidence,5,15,0.595974
+D3,Evidence,5,16,0.699920
+D3,Evidence,5,17,0.695589
+D3,Evidence,5,18,0.694808
+D3,Evidence,5,19,0.714011
+D3,Evidence,5,20,0.694326
+D3,Evidence,5,21,0.676222
+D3,Evidence,5,22,0.698370
+D3,Evidence,5,23,0.626815
+D3,Evidence,5,24,0.693783
+D3,Evidence,5,25,0.590065
+D3,Evidence,5,26,0.512330
+D3,Evidence,5,27,0.653690
+D3,Evidence,5,28,0.628876
+D3,Evidence,5,29,0.690557
+D3,Evidence,5,30,0.631151
+D3,Structure,5,1,0.628798
+D3,Structure,5,2,0.782223
+D3,Structure,5,3,0.693662
+D3,Structure,5,4,0.742529
+D3,Structure,5,5,0.689803
+D3,Structure,5,6,0.768556
+D3,Structure,5,7,0.802728
+D3,Structure,5,8,0.797409
+D3,Structure,5,9,0.899253
+D3,Structure,5,10,0.810590
+D3,Structure,5,11,0.808737
+D3,Structure,5,12,0.714950
+D3,Structure,5,13,0.779204
+D3,Structure,5,14,0.765678
+D3,Structure,5,15,0.764097
+D3,Structure,5,16,0.866185
+D3,Structure,5,17,0.875371
+D3,Structure,5,18,0.865219
+D3,Structure,5,19,0.764846
+D3,Structure,5,20,0.746839
+D3,Structure,5,21,0.837309
+D3,Structure,5,22,0.808117
+D3,Structure,5,23,0.686955
+D3,Structure,5,24,0.858559
+D3,Structure,5,25,0.716944
+D3,Structure,5,26,0.706714
+D3,Structure,5,27,0.804014
+D3,Structure,5,28,0.718702
+D3,Structure,5,29,0.900607
+D3,Structure,5,30,0.740494
+D3,Decision fidelity,5,1,0.269641
+D3,Decision fidelity,5,2,0.255445
+D3,Decision fidelity,5,3,0.355146
+D3,Decision fidelity,5,4,0.211487
+D3,Decision fidelity,5,5,0.254259
+D3,Decision fidelity,5,6,0.244381
+D3,Decision fidelity,5,7,0.202706
+D3,Decision fidelity,5,8,0.174193
+D3,Decision fidelity,5,9,0.231460
+D3,Decision fidelity,5,10,0.067477
+D3,Decision fidelity,5,11,0.161017
+D3,Decision fidelity,5,12,0.208594
+D3,Decision fidelity,5,13,0.248433
+D3,Decision fidelity,5,14,0.311331
+D3,Decision fidelity,5,15,0.250758
+D3,Decision fidelity,5,16,0.297286
+D3,Decision fidelity,5,17,0.269545
+D3,Decision fidelity,5,18,0.238483
+D3,Decision fidelity,5,19,0.156155
+D3,Decision fidelity,5,20,0.302129
+D3,Decision fidelity,5,21,0.246216
+D3,Decision fidelity,5,22,0.257230
+D3,Decision fidelity,5,23,0.292389
+D3,Decision fidelity,5,24,0.259456
+D3,Decision fidelity,5,25,0.192849
+D3,Decision fidelity,5,26,0.184706
+D3,Decision fidelity,5,27,0.364563
+D3,Decision fidelity,5,28,0.197945
+D3,Decision fidelity,5,29,0.259852
+D3,Decision fidelity,5,30,0.201624
+D4,Risk rel.,5,1,0.836711
+D4,Risk rel.,5,2,0.790054
+D4,Risk rel.,5,3,0.805583
+D4,Risk rel.,5,4,0.754235
+D4,Risk rel.,5,5,0.748800
+D4,Risk rel.,5,6,0.740246
+D4,Risk rel.,5,7,0.762805
+D4,Risk rel.,5,8,0.801563
+D4,Risk rel.,5,9,0.781584
+D4,Risk rel.,5,10,0.763476
+D4,Risk rel.,5,11,0.794668
+D4,Risk rel.,5,12,0.843410
+D4,Risk rel.,5,13,0.854410
+D4,Risk rel.,5,14,0.848244
+D4,Risk rel.,5,15,0.791469
+D4,Risk rel.,5,16,0.784008
+D4,Risk rel.,5,17,0.769893
+D4,Risk rel.,5,18,0.823372
+D4,Risk rel.,5,19,0.853500
+D4,Risk rel.,5,20,0.871323
+D4,Risk rel.,5,21,0.822855
+D4,Risk rel.,5,22,0.791406
+D4,Risk rel.,5,23,0.755559
+D4,Risk rel.,5,24,0.880668
+D4,Risk rel.,5,25,0.831855
+D4,Risk rel.,5,26,0.781682
+D4,Risk rel.,5,27,0.908441
+D4,Risk rel.,5,28,0.872127
+D4,Risk rel.,5,29,0.708728
+D4,Risk rel.,5,30,0.811375
+D4,Evidence,5,1,0.772221
+D4,Evidence,5,2,0.820246
+D4,Evidence,5,3,0.741815
+D4,Evidence,5,4,0.762777
+D4,Evidence,5,5,0.730308
+D4,Evidence,5,6,0.742802
+D4,Evidence,5,7,0.702563
+D4,Evidence,5,8,0.836365
+D4,Evidence,5,9,0.828743
+D4,Evidence,5,10,0.762036
+D4,Evidence,5,11,0.770283
+D4,Evidence,5,12,0.803440
+D4,Evidence,5,13,0.826441
+D4,Evidence,5,14,0.777221
+D4,Evidence,5,15,0.689620
+D4,Evidence,5,16,0.711474
+D4,Evidence,5,17,0.743761
+D4,Evidence,5,18,0.730267
+D4,Evidence,5,19,0.767499
+D4,Evidence,5,20,0.762100
+D4,Evidence,5,21,0.770431
+D4,Evidence,5,22,0.738798
+D4,Evidence,5,23,0.747840
+D4,Evidence,5,24,0.744947
+D4,Evidence,5,25,0.834151
+D4,Evidence,5,26,0.609760
+D4,Evidence,5,27,0.746333
+D4,Evidence,5,28,0.802937
+D4,Evidence,5,29,0.775257
+D4,Evidence,5,30,0.782715
+D4,Structure,5,1,0.645491
+D4,Structure,5,2,0.778233
+D4,Structure,5,3,0.813403
+D4,Structure,5,4,0.639918
+D4,Structure,5,5,0.806931
+D4,Structure,5,6,0.768489
+D4,Structure,5,7,0.812203
+D4,Structure,5,8,0.734287
+D4,Structure,5,9,0.737356
+D4,Structure,5,10,0.714539
+D4,Structure,5,11,0.644441
+D4,Structure,5,12,0.681284
+D4,Structure,5,13,0.778595
+D4,Structure,5,14,0.724682
+D4,Structure,5,15,0.646030
+D4,Structure,5,16,0.756988
+D4,Structure,5,17,0.769491
+D4,Structure,5,18,0.735298
+D4,Structure,5,19,0.779861
+D4,Structure,5,20,0.693611
+D4,Structure,5,21,0.591031
+D4,Structure,5,22,0.739468
+D4,Structure,5,23,0.763130
+D4,Structure,5,24,0.724915
+D4,Structure,5,25,0.757399
+D4,Structure,5,26,0.724338
+D4,Structure,5,27,0.736643
+D4,Structure,5,28,0.679740
+D4,Structure,5,29,0.793158
+D4,Structure,5,30,0.768524
+D4,Decision fidelity,5,1,0.703141
+D4,Decision fidelity,5,2,0.805039
+D4,Decision fidelity,5,3,0.641844
+D4,Decision fidelity,5,4,0.610057
+D4,Decision fidelity,5,5,0.668696
+D4,Decision fidelity,5,6,0.639844
+D4,Decision fidelity,5,7,0.783837
+D4,Decision fidelity,5,8,0.710774
+D4,Decision fidelity,5,9,0.693645
+D4,Decision fidelity,5,10,0.746999
+D4,Decision fidelity,5,11,0.675591
+D4,Decision fidelity,5,12,0.811953
+D4,Decision fidelity,5,13,0.719083
+D4,Decision fidelity,5,14,0.786586
+D4,Decision fidelity,5,15,0.772664
+D4,Decision fidelity,5,16,0.751726
+D4,Decision fidelity,5,17,0.782790
+D4,Decision fidelity,5,18,0.749232
+D4,Decision fidelity,5,19,0.609121
+D4,Decision fidelity,5,20,0.722370
+D4,Decision fidelity,5,21,0.656580
+D4,Decision fidelity,5,22,0.768140
+D4,Decision fidelity,5,23,0.784378
+D4,Decision fidelity,5,24,0.812209
+D4,Decision fidelity,5,25,0.829901
+D4,Decision fidelity,5,26,0.663023
+D4,Decision fidelity,5,27,0.799566
+D4,Decision fidelity,5,28,0.679569
+D4,Decision fidelity,5,29,0.723818
+D4,Decision fidelity,5,30,0.720199

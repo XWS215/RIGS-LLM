@@ -1,0 +1,7 @@
+﻿step,name,detail
+1,Test requirement,AEB hard braking
+2,Retrieved mechanism,rear-end path
+3,Mechanism transfer,fog + wet road
+4,Structure check,"OK, U=0.08"
+5,Reward,"quality 3.68, coverage +1/40"
+6,Policy update,p 0.166 -> 0.177

@@ -1,0 +1,76 @@
+﻿metric,method,run,n_good,n_total
+Path validity,A1,1,91,200
+Path validity,A2,1,115,200
+Path validity,A3,1,119,200
+Path validity,A4,1,132,200
+Path validity,A5,1,149,200
+Completeness,A1,1,96,200
+Completeness,A2,1,126,200
+Completeness,A3,1,113,200
+Completeness,A4,1,147,200
+Completeness,A5,1,155,200
+Evidence trace,A1,1,84,200
+Evidence trace,A2,1,106,200
+Evidence trace,A3,1,115,200
+Evidence trace,A4,1,128,200
+Evidence trace,A5,1,139,200
+Path validity,A1,2,85,200
+Path validity,A2,2,108,200
+Path validity,A3,2,111,200
+Path validity,A4,2,138,200
+Path validity,A5,2,148,200
+Completeness,A1,2,105,200
+Completeness,A2,2,121,200
+Completeness,A3,2,125,200
+Completeness,A4,2,153,200
+Completeness,A5,2,148,200
+Evidence trace,A1,2,77,200
+Evidence trace,A2,2,104,200
+Evidence trace,A3,2,117,200
+Evidence trace,A4,2,141,200
+Evidence trace,A5,2,135,200
+Path validity,A1,3,99,200
+Path validity,A2,3,117,200
+Path validity,A3,3,122,200
+Path validity,A4,3,130,200
+Path validity,A5,3,161,200
+Completeness,A1,3,98,200
+Completeness,A2,3,116,200
+Completeness,A3,3,134,200
+Completeness,A4,3,134,200
+Completeness,A5,3,149,200
+Evidence trace,A1,3,74,200
+Evidence trace,A2,3,104,200
+Evidence trace,A3,3,109,200
+Evidence trace,A4,3,114,200
+Evidence trace,A5,3,144,200
+Path validity,A1,4,88,200
+Path validity,A2,4,103,200
+Path validity,A3,4,117,200
+Path validity,A4,4,138,200
+Path validity,A5,4,170,200
+Completeness,A1,4,101,200
+Completeness,A2,4,109,200
+Completeness,A3,4,127,200
+Completeness,A4,4,145,200
+Completeness,A5,4,150,200
+Evidence trace,A1,4,71,200
+Evidence trace,A2,4,97,200
+Evidence trace,A3,4,104,200
+Evidence trace,A4,4,127,200
+Evidence trace,A5,4,146,200
+Path validity,A1,5,97,200
+Path validity,A2,5,109,200
+Path validity,A3,5,128,200
+Path validity,A4,5,133,200
+Path validity,A5,5,168,200
+Completeness,A1,5,98,200
+Completeness,A2,5,113,200
+Completeness,A3,5,132,200
+Completeness,A4,5,149,200
+Completeness,A5,5,154,200
+Evidence trace,A1,5,82,200
+Evidence trace,A2,5,99,200
+Evidence trace,A3,5,110,200
+Evidence trace,A4,5,132,200
+Evidence trace,A5,5,136,200
